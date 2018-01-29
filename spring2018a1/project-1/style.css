@@ -1,0 +1,38 @@
+html,body{
+    width 100%;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Oxygen;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    color: #CCCCCC;
+    background-image: url("https://img00.deviantart.net/f089/i/2010/079/0/3/large_background_1_by_anakmoon_stockage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.headerbar{
+
+}
+.navigation{
+
+}
+.main{
+
+}
+.paragraphbox{
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+}
+.input{
+    opacity: .5;
+    padding: 15px;
+}
+.pbox{
+
+}

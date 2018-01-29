@@ -1,0 +1,28 @@
+HTML, body{
+    width: 85%;
+    height: 85%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+
+}
+.navigation{
+    padding: 35px 0;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.horizontal-list{
+    display: inline;
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+}
