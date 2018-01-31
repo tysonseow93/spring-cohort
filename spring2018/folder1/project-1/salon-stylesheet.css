@@ -1,28 +1,43 @@
 HTML, body{
-    width: 85%;
-    height: 85%;
+    width: 100%;
+    height: 100%;
     margin: 0;
     padding: 0;
-    text-align: center;
+}
+.container {
+    width: 80%;
+    background-color: darkgray;
+    margin: 0 auto;
+    padding: 0;
 }
 header{
+    width: 100%;
+    background-image: url("Subtle+Energy+Banner.jpg");
     display: flex;
-    justify-content: space-around;
-}
-.logo{
-
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+    margin: 0;
+    padding: 0;
 }
 .navigation{
-    padding: 35px 0;
     display: block;
-    justify-content: center;
     align-items: center;
-    text-align: center;
+    padding: 0;
+    margin: 0;
 }
-.horizontal-list{
-    display: inline;
+.main{
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+.title-section{
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
 .content{
     display: flex;
-    justify-content: space-around;
+}
+.myimage{
 }
