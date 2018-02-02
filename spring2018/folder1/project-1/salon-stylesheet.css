@@ -2,29 +2,36 @@ HTML, body{
     width: 100%;
     height: 100%;
     margin: 0;
-    padding: 0;
+    padding: 20px;
+}
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
 }
 .container {
-    width: 80%;
-    background-color: darkgray;
+    width: calc(80% - 20px);
     margin: 0 auto;
-    padding: 0;
+    background-color: white;
+    padding: 20px;
 }
 header{
     width: 100%;
+    font-family: 'Cinzel', serif;
     background-image: url("Subtle+Energy+Banner.jpg");
     display: flex;
     justify-content: space-between;
-    height: 100px;
-    align-items: center;
+    height: auto;
     margin: 0;
     padding: 0;
 }
+.logo{
+    margin: 20px;
+}
 .navigation{
     display: block;
-    align-items: center;
     padding: 0;
     margin: 0;
+    word-spacing: 5px;
 }
 .main{
     background-color: white;
@@ -32,6 +39,7 @@ header{
     margin: 0;
 }
 .title-section{
+    font-family: 'Cinzel', serif;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -40,4 +48,6 @@ header{
     display: flex;
 }
 .myimage{
+    margin-right: 20px;
+    padding-top: 20px;
 }
