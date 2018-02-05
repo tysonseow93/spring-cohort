@@ -9,7 +9,7 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 .container {
-    width: calc(80% - 20px);
+    width: calc(60% - 20px);
     margin: 0 auto;
     background-color: cadetblue;
     padding: 20px;
@@ -30,13 +30,29 @@ header{
     display: block;
     padding-right: 20px;
     margin: auto 0;
-    word-spacing: 5px;
+    word-spacing: 3px;
 }
 .navigation a{
     text-decoration: none;
     color: purple;
-    text-decoration: None;
-    font-family: Cinzel;
+}
+.button a{
+    display: block;
+    margin: auto 0;
+    background: #800080;
+    background-image: -webkit-linear-gradient(top, #800080, #6b016b);
+    background-image: -moz-linear-gradient(top, #800080, #6b016b);
+    background-image: -ms-linear-gradient(top, #800080, #6b016b);
+    background-image: -o-linear-gradient(top, #800080, #6b016b);
+    background-image: linear-gradient(to bottom, #800080, #6b016b);
+    -webkit-border-radius: 33;
+    -moz-border-radius: 33;
+    border-radius: 33px;
+    text-shadow: 4px 2px 3px #1f1f1f;
+    color: #D3D3D3;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
 }
 .main{
     padding: 0;
@@ -51,17 +67,17 @@ header{
 }
 .content{
     display: flex;
+    flex-direction: row-reverse;
     justify-content: center;
-
 }
 .myimage{
-    background-image: url("barber-chair.jpg");
+    background-image: url("blank-profile-picture.png");
+    background-size: contain;
     background-repeat: no-repeat;
-    width: 60%;
     height: auto;
-    margin: 20px 0px 20px 20px;
-    padding-top: 20px;
+    width: 30%;
+    margin-top: 20px;
 }
 .pbox{
-    width: 30%;
+    width: 60%;
 }
