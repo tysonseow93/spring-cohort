@@ -9,7 +9,7 @@ body{
     font-family: 'Raleway', sans-serif;
 }
 .container {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     background-color: #73b6b8;
     padding: 0;
@@ -37,10 +37,8 @@ header{
 .navigation a{
     text-decoration: none;
     color: purple;
-    text-decoration: None;
-    font-family: Cinzel;
 }
-.button a {
+.button a{
     margin: auto 0;
     background: #800080;
     background-image: -webkit-linear-gradient(top, #800080, #6b016b);
@@ -66,47 +64,7 @@ header{
     padding: 0;
     color: purple;
 }
-.pbox{
+.content{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
-    width: 100%;
-    height: auto;
-    margin-top: 20px;
-    padding: 0px;
-}
-.product-box{
-    display: flex;
-    flex-direction: column;
-    width: 250px;
-    padding: 0px 20px;
-    background-color: #ece5de;
-    margin-bottom: 20px;
-    margin-right: 20px;
-}
-.headline{
-    margin: 0;
-    padding: 0;
-}
-.headline span{
-    margin-bottom: 20px;
-    line-height: 0px;
-    color: black;
-    font-size: 13px;
-}
-.product-detail{
-    padding: 0px;
-    margin: 0px;
-}
-.product-box a{
-    width: 40%;
-    margin-bottom: 20px;
-    padding: 10px;
-    font-size: .9em;
-    background-color: purple;
-    color: #ece5de;
-    margin-top: 20px;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 25%;
 }
