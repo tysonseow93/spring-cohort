@@ -1,0 +1,92 @@
+@subtitle-grey: #cccccc;
+@default-padding: 20px;
+@title-font-size: 30px;
+@base-font-size: 12px;
+@default-text-shadow: black 1px 2px;
+@btn-color: #ab182d;
+@btn-hover: #db193c;
+
+
+.dabtn(@btn-radius){
+  text-decoration: none;
+  color: #ffffff;
+  display: block;
+  width: 100px;
+  margin-top: 20px;
+  padding: 8px;
+  text-align: center;
+  background-color: @btn-color;
+  border-radius: @btn-radius;
+}
+  &:hover{
+    background-color: @btn-hover ;
+  }
+
+
+html, body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body{
+  display: flex;
+  align-items: center;
+  background-color: #ece5de;
+  .container{
+    width: 70%;
+    height: 600px;
+    display: flex;
+    background-color: #ffffff;
+    margin: 0 auto;
+
+    .left {
+      display: flex;
+      flex-direction: column-reverse;
+      align-items: center;
+      width: 45%;
+      height: 100%;
+      background-image: url("famousportraits8.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: 25%;
+      .profile-title{
+        color: white;
+        text-shadow: @default-text-shadow;
+        text-align: center;
+        margin-bottom: 40px;
+        .name{
+          font-size: @title-font-size;
+        }
+      }
+    }
+    .right{
+        width: 45%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding-left: @default-padding;
+        .story{
+          .title{
+            font-size: 18px;
+          }
+          .date{
+            color: @subtitle-grey;
+            font-size: @base-font-size;
+          }
+          a{
+            .dabtn(5px);
+            .my-hover-mixin;
+          }
+        }
+      }
+    }
+  }
+
+
+
+
+
+
+
