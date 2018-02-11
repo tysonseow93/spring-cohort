@@ -10,34 +10,34 @@ body {
   align-items: center;
   background-color: #ece5de;
 }
-.container {
+body .container {
   width: 70%;
   height: 600px;
   display: flex;
   background-color: #ffffff;
   margin: 0 auto;
 }
-.left {
+body .container .left {
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
   width: 45%;
   height: 100%;
-  background-image: url("famousportraits8.jpg");
+  background-image: url("Portfolio/famousportraits8.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 25%;
 }
-.profile-title {
+body .container .left .profile-title {
   color: white;
   text-shadow: black 1px 2px;
   text-align: center;
   margin-bottom: 40px;
 }
-.name {
+body .container .left .profile-title .name {
   font-size: 30px;
 }
-.right {
+body .container .right {
   width: 45%;
   height: 100%;
   display: flex;
@@ -45,14 +45,14 @@ body {
   justify-content: space-around;
   padding-left: 20px;
 }
-.story .title {
+body .container .right .story .title {
   font-size: 18px;
 }
-.story .date {
+body .container .right .story .date {
   color: #cccccc;
   font-size: 12px;
 }
-.story a {
+body .container .right .story a {
   text-decoration: none;
   color: #ffffff;
   display: block;
@@ -60,10 +60,10 @@ body {
   margin-top: 20px;
   padding: 8px;
   text-align: center;
-  background-color: #AB182D;
+  background-color: #ab182d;
   border-radius: 5px;
 }
-.story a:hover {
-  border: #E12839 2px;
-  background-color: #5E0D1A;
+body .container .right .story a:hover {
+  border: 2px solid #1f1f1f;
+  background-color: #db193c;
 }

@@ -1,5 +1,19 @@
+@default-btn-gradient: linear-gradient(to bottom, #a800a8, #4f014f);
+@default-btn-color: #4f014f;
+@title-font:  'Cinzel', serif;
 
 
+.defaultbtn(){
+  display: flex;
+  background-color: @default-btn-color;
+  background-image: @default-btn-gradient;
+  border-radius: 33px;
+  text-shadow: 4px 2px 3px #1f1f1f;
+  color: #ece5de;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
 
 HTML, body{
   width: 100%;
@@ -18,7 +32,7 @@ body{
   header{
     width: 100%;
     background-color: #ece5de;
-    font-family: 'Cinzel', serif;
+    font-family: @title-font;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,24 +48,17 @@ body{
       a{
         text-decoration: none;
         color: #a800a8;
-        text-decoration: None;
-        font-family: Cinzel;
       }
     }
     .button{
       a{
-        display: flex;
-        margin: auto 0;
-        background: #4f014f;
-        background-image: linear-gradient(to bottom, #a800a8, #4f014f);
-        border-radius: 33px;
-        text-shadow: 4px 2px 3px #1f1f1f;
-        color: #ece5de;
-        font-size: 20px;
-        padding: 10px 20px 10px 20px;
-        text-decoration: none;
+        .defaultbtn;
       }
     }
+    }
+  @media(max-width: 900px) {
+    width: 100%;
+  }
   }
   .main{
     padding: 0;
@@ -79,7 +86,7 @@ body{
       }
     }
   }
-}
+
 
 
 

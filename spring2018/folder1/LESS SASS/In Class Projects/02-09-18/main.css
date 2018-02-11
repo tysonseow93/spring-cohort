@@ -1,0 +1,32 @@
+@import "challenges.css";
+html,
+body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  height: 850px;
+  width: 70%;
+  margin: 0 auto;
+  border: 1px solid #f4f5f7;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  width: 100%;
+  height: 45PX;
+}
+.cart {
+  font-family: sans-serif;
+  padding-right: 30px;
+}
+.coach-box {
+  width: 30%;
+  height: 300px;
+}
+.coach-box h3 {
+  color: #f4f5f7;
+}

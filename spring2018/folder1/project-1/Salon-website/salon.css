@@ -32,13 +32,10 @@ body {
 .container header .navigation a {
   text-decoration: none;
   color: #a800a8;
-  text-decoration: None;
-  font-family: Cinzel;
 }
 .container header .button a {
   display: flex;
-  margin: auto 0;
-  background: #4f014f;
+  background-color: #4f014f;
   background-image: linear-gradient(to bottom, #a800a8, #4f014f);
   border-radius: 33px;
   text-shadow: 4px 2px 3px #1f1f1f;
@@ -47,22 +44,27 @@ body {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
-.container .main {
+@media (max-width: 900px) {
+  .container {
+    width: 100%;
+  }
+}
+.main {
   padding: 0;
   margin: 0;
 }
-.container .main .title-section {
+.main .title-section {
   font-family: 'Cinzel', serif;
   text-align: center;
   margin-bottom: 20px;
   padding: 0;
   color: #a800a8;
 }
-.container .main .content {
+.main .content {
   display: flex;
   justify-content: center;
 }
-.container .main .content .myimage {
+.main .content .myimage {
   background-image: url("salon-chair.jpg");
   background-repeat: no-repeat;
   width: 60%;
@@ -70,6 +72,6 @@ body {
   margin: 20px;
   padding-top: 20px;
 }
-.container .main .content .pbox {
+.main .content .pbox {
   width: 30%;
 }

@@ -17,11 +17,11 @@
   text-align: center;
   background-color: @btn-color;
   border-radius: @btn-radius;
-}
   &:hover{
+    border: 2px solid #1f1f1f;
     background-color: @btn-hover ;
   }
-
+}
 
 html, body{
   width: 100%;
@@ -46,7 +46,7 @@ body{
       align-items: center;
       width: 45%;
       height: 100%;
-      background-image: url("famousportraits8.jpg");
+      background-image: url("Portfolio/famousportraits8.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: 25%;
@@ -57,6 +57,12 @@ body{
         margin-bottom: 40px;
         .name{
           font-size: @title-font-size;
+        }
+        .subtitle{
+
+        }
+        .content{
+
         }
       }
     }
@@ -75,9 +81,11 @@ body{
             color: @subtitle-grey;
             font-size: @base-font-size;
           }
+          .blurb{
+
+          }
           a{
-            .dabtn(5px);
-            .my-hover-mixin;
+            .dabtn(5px)
           }
         }
       }
