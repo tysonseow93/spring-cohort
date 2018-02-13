@@ -18,7 +18,7 @@
         <state>
           <leaf>
             <file leaf-file-name="jquery-3.3.1.slim.min.js" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/js/jquery-3.3.1.slim.min.js">
+              <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/js/jquery-3.3.1.slim.min.js">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="0">
                     <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -38,7 +38,7 @@
         <state>
           <leaf>
             <file leaf-file-name="jquery-3.3.1.slim.min.js" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/js/jquery-3.3.1.slim.min.js">
+              <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/js/jquery-3.3.1.slim.min.js">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="0">
                     <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -57,7 +57,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/css/bootstrap.css">
+        <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95190">
               <caret line="6346" column="13" lean-forward="false" selection-start-line="6346" selection-start-column="13" selection-end-line="6346" selection-end-column="13" />
@@ -67,10 +67,10 @@
         </entry>
       </file>
       <file leaf-file-name="first-page.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/first-page.html">
+        <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/first-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+            <state relative-caret-position="270">
+              <caret line="18" column="88" lean-forward="true" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -89,6 +89,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/folder1/project-1/Bootstrap/first-page.html" />
+        <option value="$PROJECT_DIR$/Class Projects/Bootstrap/first-page.html" />
       </list>
     </option>
   </component>
@@ -127,6 +128,11 @@
               <item name="spring2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="Class Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -141,9 +147,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Class Projects/LESS SASS" />
+      <recent name="$PROJECT_DIR$/Class Projects" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/folder1" />
       <recent name="$PROJECT_DIR$/folder1/project-1/Bootstrap/js" />
-      <recent name="$PROJECT_DIR$/folder1/project-1/Bootstrap" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/folder1/project-1/Bootstrap" />
@@ -174,24 +182,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518533461343</updated>
-      <workItem from="1518533462520" duration="2932000" />
+      <workItem from="1518533462520" duration="3683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2932000" />
+    <option name="totallyTimeSpent" value="3683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286517" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -222,7 +230,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/js/jquery-3.3.1.slim.min.js">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/js/jquery-3.3.1.slim.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -232,7 +240,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/js/popper.min.js">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/js/popper.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -242,32 +250,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/img/leaf.jpg">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/img/leaf.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/img/night.jpg">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/img/night.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/img/grass.jpg">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/img/grass.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/img/sunset.jpg">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/img/sunset.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/img/sky.jpg">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/img/sky.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95190">
           <caret line="6346" column="13" lean-forward="false" selection-start-line="6346" selection-start-column="13" selection-end-line="6346" selection-end-column="13" />
@@ -275,10 +283,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/folder1/Bootstrap/first-page.html">
+    <entry file="file://$PROJECT_DIR$/Class Projects/LESS SASS/LESS test/style.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="40" column="4" lean-forward="false" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class Projects/Bootstrap/first-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="88" lean-forward="true" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
           <folding />
         </state>
       </provider>
