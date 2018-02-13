@@ -11,8 +11,13 @@ body{
 .container {
     width: 60%;
     margin: 0 auto;
-    background-image: url("../motif-floral.jpg");
+    background-color: #73b6b8;
     padding: 0;
+}
+@media (max-width: 900px) {
+    .container {
+        width: 100%;
+    }
 }
 header{
     width: calc(100% - 20px);
@@ -30,7 +35,7 @@ header{
 }
 .navigation{
     display: block;
-    padding-right: 20px;
+    padding-right: 10px;
     margin: auto 0;
     word-spacing: 3px;
 }
@@ -40,7 +45,7 @@ header{
 }
 .button a{
     display: flex;
-    margin: auto 0;
+    margin: auto 10px auto 0px;
     background: #800080;
     background-image: linear-gradient(to bottom, #a800a8, #4f014f);
     border-radius: 33px;
@@ -127,11 +132,7 @@ header{
     background: -ms-linear-gradient(top, #b840b8, #782178);
     background: -o-linear-gradient(top, #b840b8, #782178);
     background-image: -ms-linear-gradient(top, #b840b8 0%, #782178 100%);
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
     border-radius: 30px;
-    -webkit-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
-    -moz-box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
     box-shadow: rgba(255,255,255,0.4) 0 1px 0, inset rgba(255,255,255,0.4) 0 1px 0;
     text-shadow: #000000 0 1px 0;
     color: #ffffff;

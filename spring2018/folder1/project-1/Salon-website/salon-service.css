@@ -14,6 +14,11 @@ body{
     background-color: #73b6b8;
     padding: 0;
 }
+@media (max-width: 900px) {
+    .container {
+        width: 100%;
+    }
+}
 header{
     width: calc(100% - 20px);
     background-color: #ece5de;
@@ -30,31 +35,25 @@ header{
 }
 .navigation{
     display: block;
-    padding-right: 20px;
+    padding-right: 10px;
     margin: auto 0;
     word-spacing: 3px;
 }
 .navigation a{
     text-decoration: none;
     color: purple;
-    text-decoration: None;
-    font-family: Cinzel;
 }
-.button a {
-    margin: auto 0;
+.button a{
+    display: flex;
+    margin: auto 10px auto 0px;
     background: #800080;
-    background-image: -webkit-linear-gradient(top, #800080, #6b016b);
-    background-image: -moz-linear-gradient(top, #800080, #6b016b);
-    background-image: -ms-linear-gradient(top, #800080, #6b016b);
-    background-image: -o-linear-gradient(top, #800080, #6b016b);
-    background-image: linear-gradient(to bottom, #800080, #6b016b);
+    background-image: linear-gradient(to bottom, #a800a8, #4f014f);
     border-radius: 33px;
     text-shadow: 4px 2px 3px #1f1f1f;
     color: #ece5de;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
-    text-decoration: none;
-}
+    text-decoration: none;}
 .main{
     padding: 0;
     margin: 0;
@@ -103,10 +102,12 @@ header{
     margin-bottom: 20px;
     padding: 10px;
     font-size: .9em;
-    background-color: purple;
-    color: #ece5de;
     margin-top: 20px;
     text-align: center;
     text-decoration: none;
-    border-radius: 25%;
+    background-color: #4f014f;
+    background-image: linear-gradient(to bottom, #a800a8, #4f014f);
+    border-radius: 33px;
+    text-shadow: 4px 2px 3px #1f1f1f;
+    color: #ece5de;
 }
