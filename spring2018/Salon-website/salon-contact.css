@@ -73,7 +73,7 @@ header{
     justify-content: center;
 }
 .myimage{
-    background-image: url("Salon Images/salon-blank-picture.png");
+    background-image: url("Salon-Images/salon-blank-picture.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: auto;

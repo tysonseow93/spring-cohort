@@ -1,0 +1,31 @@
+  body {
+    padding: 30px;
+  }
+
+  header {
+    background: lightskyblue;
+  }
+
+  section {
+
+    background: steelblue;
+    width: 75%;
+    float: left;
+  }
+
+  article {
+    background: white;
+    margin: 0 0 1rem 0;
+  }
+
+  aside {
+
+    background: cadetblue;
+    width: 25%;
+    float: right;
+  }
+
+  header, article, section, .sidebar {
+      box-sizing: border-box;
+    padding: 1rem;
+  }

@@ -9,13 +9,9 @@ body {
   background-color: #ece5de;
   font-family: 'Raleway', sans-serif;
 }
-.container {
-  width: 80%;
+header {
   margin: 0 auto;
-  background-color: #73b6b8;
-}
-.container header {
-  width: 100%;
+  width: 80%;
   background-color: #ece5de;
   font-family: 'Cinzel', serif;
   display: flex;
@@ -23,17 +19,17 @@ body {
   align-items: center;
   height: auto;
 }
-.container header .navigation {
+header .navigation {
   display: block;
   padding-right: 10px;
   margin: auto 0;
   word-spacing: 3px;
 }
-.container header .navigation a {
+header .navigation a {
   text-decoration: none;
   color: #a800a8;
 }
-.container header .button a {
+header .button a {
   display: flex;
   background-color: #4f014f;
   background-image: linear-gradient(to bottom, #a800a8, #4f014f);
@@ -45,11 +41,16 @@ body {
   margin-right: 10px;
   text-decoration: none;
 }
+.container {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #73b6b8;
+  border-radius: 33px;
+  box-shadow: 10px 10px 5px 0px #8a888a;
+  border: 1px solid #8A888A;
+}
 @media (max-width: 900px) {
-  .container {
-    width: 100%;
-    height: 100%;
-  }
+  width: 100%;
 }
 .main {
   padding: 0;
@@ -67,7 +68,7 @@ body {
   justify-content: center;
 }
 .main .content .myimage {
-  background-image: url("Salon Images/salon-chair.jpg");
+  background-image: url("Salon-Images/salon-chair.jpg");
   background-repeat: no-repeat;
   background-position-x: center;
   width: 60%;

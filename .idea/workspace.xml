@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="" />
+    <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/errors-day2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/img/grass.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/img/leaf.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/img/night.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/img/sky.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/img/sunset.jpg" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/spring2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/spring2018/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/.idea/spring2018.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/bootstrap-day1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-grid.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-grid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-reboot.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-reboot.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-reboot.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/first-page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/img/grass.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/img/leaf.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/img/night.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/img/sky.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/img/sunset.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.bundle.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.bundle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/bootstrap.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/jquery-3.3.1.slim.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/js/popper.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Bootstrap/style-day1.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/CSS Day 2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/CSS Practice Day 2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/CSSFeb1.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/CSSFeb1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/CSSFeb1b.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/CSSFeb1b.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/Homepage.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/Map.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/MediaQueries2-5.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/MediaQueries2-5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/activityjan30.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/actjan30.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/day-2-html.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/form-activity1-31.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/map.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/structureex.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/stylesheet2.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/HTML&amp;CSS/tableactivity1-31.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/Subtle+Energy+Banner.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/city-banner.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/floral-backgrounds-blue-brown.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/headergreen.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/motif-floral.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/sample-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/sample-logo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/Images/swirls-flowers-background-vector-free-34233.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/In Class Projects/02-09-18/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/In Class Projects/02-09-18/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/In Class Projects/02-09-18/main.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/In Class Projects/2-8-18/granola.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/In Class Projects/2-8-18/product-page.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/In Class Projects/2-8-18/product-page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/In Class Projects/2-8-18/product-page.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/LESS test/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/LESS test/style.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/Portfolio/famousportraits8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/Portfolio/portfolio-page.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/Portfolio/portfolio-page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/Portfolio/portfolio.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Class Projects/LESS SASS/Portfolio/portfolio.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/Salon Images/salon-blank-picture.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/Salon Images/salon-chair.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/Salon Images/salon-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/salon-contact.css" afterPath="$PROJECT_DIR$/spring2018/Salon-website/salon-contact.css" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/salon-homepage.css" afterPath="$PROJECT_DIR$/spring2018/Salon-website/salon-homepage.css" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/salon.css" afterPath="$PROJECT_DIR$/spring2018/Salon-website/salon.css" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/salon.less" afterPath="$PROJECT_DIR$/spring2018/Salon-website/salon.less" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,57 +108,75 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
-            <file leaf-file-name="CSSFeb1b.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.css">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="135">
-                    <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
         </state>
       </content>
     </window>
     <window id="2">
       <content type="file-editors">
         <state>
-          <leaf>
-            <file leaf-file-name="CSSFeb1b.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.css">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="135">
-                    <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
         </state>
       </content>
     </window>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bootstrap-day1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/bootstrap-day1.html">
+      <file leaf-file-name="errors-day2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/errors-day2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+            <state relative-caret-position="765">
+              <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/style.css">
+      <file leaf-file-name="broken-code.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/broken-code.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="-580">
+              <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="salon-contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="salon-form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="salon-products.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-products.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="salon-service.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-service.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -77,8 +187,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,15 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring2018a1/project-1/Homepage.html" />
-        <option value="$PROJECT_DIR$/spring2018a1/project-1/salon-stylesheet.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Products and Services.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Prod-Serv.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/actjan30.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/activityjan30.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/tableactivity1-31.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/form-activity1-31.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/CSSFeb1b.css" />
         <option value="$PROJECT_DIR$/spring2018/folder1/project-1/CSSFeb1b.html" />
         <option value="$PROJECT_DIR$/spring2018/folder1/project-1/CSSFeb1.html" />
         <option value="$PROJECT_DIR$/spring2018/folder1/project-1/CSSFeb1.css" />
@@ -139,6 +240,15 @@
         <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.css" />
         <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/style.css" />
         <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/bootstrap-day1.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/spring2018/In Class Projects/Errors Practice/errors-day2.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/errors-day2.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/first-page.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/broken-code.html" />
+        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-contact.html" />
+        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-form.html" />
+        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-products.html" />
+        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-service.html" />
       </list>
     </option>
   </component>
@@ -178,7 +288,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,27 +304,40 @@
               <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="folder1" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="folder1" type="462c0819:PsiDirectoryNode" />
-              <item name="project-1" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="folder1" type="462c0819:PsiDirectoryNode" />
-              <item name="project-1" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Errors Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
               <item name="Salon-website" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,15 +351,16 @@
     <property name="SearchEverywhereHistoryKey" value=";&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice" />
+      <recent name="$PROJECT_DIR$/spring2018/folder1/project-1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/spring2018" />
       <recent name="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/Salon Images" />
       <recent name="$PROJECT_DIR$/spring2018/folder1/project-1/Images" />
       <recent name="$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS" />
-      <recent name="$PROJECT_DIR$/spring2018/folder1/project-1/CSS practice" />
-      <recent name="$PROJECT_DIR$/spring2018/folder1/project-1" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring2018/folder1/project-1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,11 +395,12 @@
       <workItem from="1517320848499" duration="94654000" />
       <workItem from="1518307810256" duration="266000" />
       <workItem from="1518308211098" duration="7410000" />
+      <workItem from="1518792148145" duration="7227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125252000" />
+    <option name="totallyTimeSpent" value="132479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,17 +413,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18252291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18252291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31791046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3272472" sideWeight="0.49753347" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.49753347" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -315,8 +440,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32770607" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.49753347" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18252291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -324,8 +449,8 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,193 +469,45 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/structureex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/stylesheet2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-homepage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSS Practice Day 2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSS Day 2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/Salon Images/salon-blank-picture.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/map.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="43" column="10" lean-forward="false" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/MediaQueries2-5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="57" column="22" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/MediaQueries2-5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/Map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/Salon Images/salon-logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/LESS test/style.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/LESS test/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="52" column="37" lean-forward="false" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/LESS test/style.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1.html" />
     <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/portfolio.less.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Images/sample-icon.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Images/sample-logo.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="40" column="4" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="48" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio-page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/main.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/day-2-html.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Images/sample-icon.png" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Images/sample-logo.jpg" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio-page.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio-page.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.less" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio.less" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/main.less" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/index.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/day-2-html.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Practice 1-29.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/tableactivity1-31.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/activityjan30.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/actjan30.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/form-activity1-31.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/structureex.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/stylesheet2.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/style.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-homepage.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-products.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.less" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-contact.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-contact.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/index.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/style.css" />
+    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/bootstrap-day1.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-contact.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -538,178 +515,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Practice 1-29.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/img/grass.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="143" column="0" lean-forward="true" selection-start-line="143" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/Salon-Images/salon-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/tableactivity1-31.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
-          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/activityjan30.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/actjan30.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/form-activity1-31.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        <state relative-caret-position="75">
+          <caret line="5" column="80" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/structureex.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/bootstrap-day1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        <state relative-caret-position="455">
+          <caret line="52" column="6" lean-forward="true" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/stylesheet2.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/first-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/style.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/errors-day2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="765">
+          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-homepage.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/broken-code.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="-580">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-products.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="78" column="60" lean-forward="false" selection-start-line="78" selection-start-column="60" selection-end-line="78" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/index.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="180">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-products.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="180">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-service.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="103" column="20" lean-forward="false" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1805">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/bootstrap-day1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        <state relative-caret-position="180">
+          <caret line="12" column="51" lean-forward="true" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
           <folding />
         </state>
       </provider>

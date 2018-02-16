@@ -27,40 +27,44 @@ body{
   background-color: #ece5de;
   font-family: 'Raleway', sans-serif;
 }
+header {
+  margin: 0 auto;
+  width: 80%;
+  background-color: #ece5de;
+  font-family: @title-font;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: auto;
+  .logo {
+
+  }
+  .navigation {
+    display: block;
+    padding-right: 10px;
+    margin: auto 0;
+    word-spacing: 3px;
+    a {
+      text-decoration: none;
+      color: #a800a8;
+    }
+  }
+  .button {
+    a {
+      .defaultbtn;
+    }
+  }
+}
 .container {
   width: 80%;
   margin: 0 auto;
   background-color: #73b6b8;
-  header{
-    width: 100%;
-    background-color: #ece5de;
-    font-family: @title-font;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: auto;
-    .logo{
-
-    }
-    .navigation{
-      display: block;
-      padding-right: 10px;
-      margin: auto 0;
-      word-spacing: 3px;
-      a{
-        text-decoration: none;
-        color: #a800a8;
-      }
-    }
-    .button{
-      a{
-        .defaultbtn;
-      }
-    }
+  border-radius: 33px;
+  box-shadow: 10px 10px 5px 0px rgba(138,136,138,1);
+  border: 1px solid #8A888A;
     }
   @media(max-width: 900px) {
     width: 100%;
-  }
   }
   .main{
     padding: 0;
@@ -76,7 +80,7 @@ body{
       display: flex;
       justify-content: center;
       .myimage{
-        background-image: url("Salon Images/salon-chair.jpg");
+        background-image: url("Salon-Images/salon-chair.jpg");
         background-repeat: no-repeat;
         background-position-x: center;
         width: 60%;
