@@ -13,6 +13,9 @@ body{
     margin: 0 auto;
     background-color: #73b6b8;
     padding: 0;
+    border-radius: 33px;
+    box-shadow: 10px 10px 5px 0px rgba(138,136,138,1);
+    border: 1px solid #8A888A;
 }
 @media (max-width: 900px) {
     .container {
@@ -20,14 +23,14 @@ body{
     }
 }
 header{
-    width: calc(100% - 20px);
+    width: 80%;
+    margin: 0 auto;
     background-color: #ece5de;
     font-family: 'Cinzel', serif;
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: auto;
-    margin: 0;
     padding: 10px;
 }
 .logo{
@@ -45,7 +48,7 @@ header{
 }
 .button a{
     display: flex;
-    margin: auto 10px auto 0px;
+    margin: auto 0px auto 0px;
     background: #800080;
     background-image: linear-gradient(to bottom, #a800a8, #4f014f);
     border-radius: 33px;
@@ -80,6 +83,9 @@ header{
     width: 250px;
     padding: 0px 20px;
     background-color: #ece5de;
+    border-radius: 33px;
+    box-shadow: 10px 10px 5px 0px rgba(138,136,138,1);
+    border: 1px solid #8A888A;
     margin-bottom: 20px;
     margin-right: 20px;
 }
