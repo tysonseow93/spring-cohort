@@ -31,7 +31,11 @@ header{
     justify-content: space-between;
     align-items: center;
     height: auto;
-    padding: 10px;
+}
+@media (max-width: 900px) {
+    header {
+        width: 100%;
+    }
 }
 .logo{
 
