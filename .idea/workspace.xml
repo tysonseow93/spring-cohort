@@ -2,7 +2,69 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/Day9.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/Day9.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/JsP-day1-1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/JsP-day1-2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/action.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/action2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day11quiz.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day11quiz.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day5.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day5ICA.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day5ICA.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day6.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day6.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7ICA-1.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7ICA.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day8ICA.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day8ICA.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/index-2-21.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/script-2-21.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/style-2-21.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Blackjack/Blackjack.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Blackjack/Blackjack.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/FrankenGame/action.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/FrankenGame/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/FrankenGame/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Minesweeper/day10.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Minesweeper/day10.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Minesweeper/day10.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/MonsterGame/day6ICA.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/MonsterGame/day6ICA.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/Goat.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/menuback.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/titlescreen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/Doctor.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/Frankyman.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/castleback.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/frankyWife.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/haunted.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/mummy1.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/functions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/questions.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/test.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/tests.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/To-Do-List/todo.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/To-Do-List/todo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/card.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/cardGame.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/cardGame.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/dataTypesEx.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/dataTypesEx.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/salon.css" afterPath="$PROJECT_DIR$/spring2018/Salon-website/salon.css" />
+      <change beforePath="$PROJECT_DIR$/spring2018/Salon-website/salon.less" afterPath="$PROJECT_DIR$/spring2018/Salon-website/salon.less" />
+      <change beforePath="$PROJECT_DIR$/spring2018/vintage-frame-clipart-cliparts-that-you-can-download-to-you-computer-and-use-in-your-designs-vintage-frame-clipart-4035-3306.jpg" afterPath="$PROJECT_DIR$/spring2018/Salon-website/Salon-Images/vintage-frame-clipart.jpg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,113 +77,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="salon.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon-contact.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-contact.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon-form.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-form.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon-homepage.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-homepage.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon-service.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-service.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon-products.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-products.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon-service.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-service.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1890">
-              <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="salon-contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="day12.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day12.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="day12.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day12.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -132,57 +123,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Map.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/MediaQueries2-5.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/MediaQueries2-5.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-homepage.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-products.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-service.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-contact.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-contact.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-service.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-homepage.css" />
-        <option value="$PROJECT_DIR$/spring2018/LESS test/style.css" />
-        <option value="$PROJECT_DIR$/spring2018/LESS test/style.less" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-form.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/salon-form.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/portfolio-page.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/portfolio.less.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/portfolio-page.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-homepage.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/portfolio.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/portfolio.less" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.less" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/teamwork.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/main.less" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/index.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/actjan30.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/structureex.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.html" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-homepage.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.less" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-contact.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/style.css" />
-        <option value="$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/bootstrap-day1.html" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/spring2018/In Class Projects/Errors Practice/errors-day2.html" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/errors-day2.html" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/first-page.html" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/broken-code.html" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-service.html" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-form.html" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-products.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-contact.html" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon.less" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-contact.css" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-form.css" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-homepage.css" />
-        <option value="$PROJECT_DIR$/spring2018/Salon-website/salon-service.css" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/JsP-day1-2.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/action2.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/script-2-21.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/index-2-21.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/style-2-21.css" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/string.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/dataTypesEx.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/cardGame.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/cardGame.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/dataTypesEx.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day2.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day2.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day5.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day5ICA.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/day5ICA.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day5ICA.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day5.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day6ICA.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day6ICA.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/MonsterGame/day6ICA.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/MonsterGame/day6ICA.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day7ICA.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day7ICA-1.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day6.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day6.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day7.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day7.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/action.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day8ICA.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Blackjack.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/FrankenGame/style.css" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Day9.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Day9.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/To-Do-List/todo.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/To-Do-List/todo.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day8ICA.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day10.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day10.css" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day10.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.css" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Blackjack/Blackjack.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Blackjack/Blackjack.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day11quiz.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day11quiz.js" />
+        <option value="$USER_HOME$/Desktop/Labs/functions.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/functions.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day12.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day12.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day12.js" />
       </list>
     </option>
   </component>
@@ -198,10 +189,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="807" />
+    <option name="width" value="778" />
+    <option name="height" value="805" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -221,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,40 +235,20 @@
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
               <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mtech" type="462c0819:PsiDirectoryNode" />
-              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mtech" type="462c0819:PsiDirectoryNode" />
-              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Errors Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
               <item name="Salon-website" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mtech" type="462c0819:PsiDirectoryNode" />
-              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="Salon-website" type="462c0819:PsiDirectoryNode" />
-              <item name="salon.less" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,16 +262,19 @@
     <property name="SearchEverywhereHistoryKey" value=";&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript" />
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices" />
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz" />
+      <recent name="$PROJECT_DIR$/spring2018/Salon-website/Salon-Images" />
+      <recent name="$PROJECT_DIR$/spring2018/Salon-website" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Desktop/Labs" />
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game" />
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice" />
       <recent name="$PROJECT_DIR$/spring2018/folder1/project-1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/spring2018" />
-      <recent name="$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/Salon Images" />
-      <recent name="$PROJECT_DIR$/spring2018/folder1/project-1/Images" />
-      <recent name="$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -336,12 +309,13 @@
       <workItem from="1517320848499" duration="94654000" />
       <workItem from="1518307810256" duration="266000" />
       <workItem from="1518308211098" duration="7410000" />
-      <workItem from="1518792148145" duration="10848000" />
+      <workItem from="1518792148145" duration="86012000" />
+      <workItem from="1520196459241" duration="43859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136100000" />
+    <option name="totallyTimeSpent" value="255123000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,19 +327,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="805" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18252291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31791046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3272472" sideWeight="0.49753347" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.49753347" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -379,10 +353,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272472" sideWeight="0.49753347" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18252291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -390,8 +364,8 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,177 +380,399 @@
     </ignored-roots>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio-page.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio-page.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.less" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/Portfolio/portfolio.less" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/main.less" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/02-09-18/index.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/CSSFeb1b.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/day-2-html.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Practice 1-29.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/LESS SASS/In Class Projects/2-8-18/product-page.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/tableactivity1-31.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/activityjan30.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/actjan30.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/form-activity1-31.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/structureex.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/stylesheet2.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/HTML&amp;CSS/style.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-homepage.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-products.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.less" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-contact.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-contact.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/index.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-service.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Salon-website/salon-form.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/style.css" />
-    <entry file="file://$PROJECT_DIR$/spring2018/folder1/project-1/Bootstrap/bootstrap-day1.html" />
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/img/grass.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/dataTypesEx.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/Salon-Images/salon-logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/dataTypes/dataTypesEx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/style-2-21.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/script-2-21.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/index-2-21.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day5ICA.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="80" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/bootstrap-day1.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day5ICA.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="52" column="6" lean-forward="true" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="22" column="59" lean-forward="false" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/first-page.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/MonsterGame/day6ICA.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Errors Practice/errors-day2.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/MonsterGame/day6ICA.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        <state relative-caret-position="385">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Bootstrap/broken-code.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7ICA.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-580">
-          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-form.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="6" lean-forward="false" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/mummy1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/haunted.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/castleback.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/frankyWife.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/Frankyman.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/images/Doctor.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="315">
+          <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-products.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day6.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="393">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1519869420000" expanded="true" signature="83:189" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-service.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        <state relative-caret-position="555">
+          <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-contact.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/Day9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="86" column="23" lean-forward="true" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day7ICA-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/Day9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day8ICA.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day8ICA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Minesweeper/day10.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Minesweeper/day10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Minesweeper/day10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/To-Do-List/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/To-Do-List/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/FrankenGame/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/FrankenGame/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/FrankenGame/action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/Salon-Images/vintage-frame-clipart.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon.less">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Spelling game/day11.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Blackjack/Blackjack.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-contact.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day11quiz.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="4" lean-forward="true" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-service.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/questions.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-homepage.css">
+    <entry file="file://$USER_HOME$/Desktop/Labs/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon-form.css">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/tests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Game/Blackjack/Blackjack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day11quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day12.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/day12.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
       </provider>

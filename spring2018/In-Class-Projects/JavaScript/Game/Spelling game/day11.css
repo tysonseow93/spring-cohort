@@ -1,0 +1,45 @@
+body, html{
+    width: 100%;
+    height: 100%;
+    background-color: #CCCCCC;
+}
+body{
+    display: flex;
+    align-items: center;
+}
+.container{
+    display: flex;
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: green;
+}
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-image: url("titlescreen.png");
+}
+.introbtn{
+    display: flex;
+    background-color: firebrick;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 8px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    position: relative;
+    top: -100px;
+}
+.menupage{
+    display: none;
+    width: 100%;
+    height: 100%;
+    background-image: url("menuback.png");
+}

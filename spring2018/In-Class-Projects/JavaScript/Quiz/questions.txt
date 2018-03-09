@@ -1,0 +1,62 @@
+1.  Write a function named prepend() that takes a string and prepend the string 'hello ' to it.
+    
+    Example: prepend('world') returns 'hello world', prepend('javascript') returns 'hello javascript'
+
+
+2.  Write a function named evens that takes an array of numbers and returns an array of all
+    the even numbers in the array.
+
+    Example:  evens([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]) => [2, 4, 6, 8, 10]
+
+
+3.  Given an array of names, write a function named search which takes two parameters: a list of names
+    and a string to search for, and returns an array of all the names that contain the specified string.
+    Your function should be case insensitive.
+
+    function search(nameList, searchTerm) {...}
+   
+    Example:
+       search(['Bryce', 'Ron', 'Sarah', 'Brett', 'Steven', 'Benjamin'], 'B') => ['Bryce', 'Brett', 'Benjamin']
+       search(['Bryce', 'Ron', 'Sarah', 'Brett', 'Steven', 'Benjamin'], 'br') => ['Bryce', 'Brett']
+       search(['Bryce', 'Ron', 'Sarah', 'Brett', 'Steven', 'Benjamin'], 'bry') => ['Bryce']
+
+    Hint:  You can get an all uppercase copy of a string by calling .toUpperCase(), or an all lowercase copy by calling .toLowerCase()
+
+
+4.  Write a function named pascal that returns any given number of pascal's triangle
+    Pascals triangle is formed as follows:
+         [1]      row 1
+        [1,1]     row 2
+       [1,2,1]    row 3
+      [1,3,3,1]   row 4
+     [1,4,6,4,1]  row 5
+
+    Or, a more programming friendly approach would view it like this
+    [1]          row 1
+    [1,1]        row 2
+    [1,2,1]      row 3
+    [1,3,3,1]    row 4
+    [1,4,6,4,1]  row 5
+
+    Any value on pascals triangle (apart from the first three, starting from the top and the borders) is
+    this:  (row,column) = (row-1, column) + (row-1, column-1).
+
+    Calling your function should look like this:  pascal(1,1) => 1; pascal (4,3) => 3
+
+
+5.  Time to make some vehicles again.  Create the following classes:
+      class Stereo
+        properties:  brand (string), bluetooth (boolean), status (string)
+        
+        constructor: should take two parameters: brand and bluetooth; status should always be initialized to 'off'
+        
+        functions: pushPowerButton() -> if status === 'on' then set satus to 'off', and vice versa
+      
+      class Vehicle
+        properties:  make (string), model (string), color (string), stereo (Stereo)
+        
+        constructor: should take four parameters: make, model, color, stereo.  If no stereo argument is supplied, then a stereo with should be created with 'stock'
+                     as the brand, and the bluetooth property set to false.
+        functions:
+          setColor(color) -> should set the color of the car to the value passed in
+          pushStereoPowerButton() -> should call the pushPowerButton() function on the stereo property to turn the stereo on or off

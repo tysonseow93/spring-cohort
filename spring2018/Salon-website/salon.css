@@ -10,6 +10,7 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 header {
+  max-width: 1000px;
   margin: 0 auto;
   width: 80%;
   background-color: #ece5de;
@@ -19,9 +20,11 @@ header {
   align-items: center;
   height: auto;
 }
-@media (max-width: 900px) {
+@media (max-width: 1150px) {
   header {
     width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
   }
 }
 header .navigation {
@@ -47,15 +50,18 @@ header .button a {
 }
 .container {
   width: 80%;
+  max-width: 1000px;
   margin: 0 auto;
   background-color: #73b6b8;
   border-radius: 33px;
   box-shadow: 10px 10px 5px 0px #8a888a;
   border: 1px solid #8A888A;
 }
-@media (max-width: 900px) {
+@media (max-width: 1150px) {
   .container {
     width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
   }
 }
 .main {
@@ -71,17 +77,23 @@ header .button a {
 }
 .main .content {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 .main .content .myimage {
   background-image: url("Salon-Images/salon-chair.jpg");
   background-repeat: no-repeat;
   background-position-x: center;
-  width: 60%;
+  flex-basis: 66%;
   height: auto;
-  margin: 20px;
-  padding-top: 20px;
+  margin: 10px;
+  box-sizing: border-box;
+  flex-grow: 1;
+  border-radius: 33px;
 }
 .main .content .pbox {
-  width: 30%;
+  margin-right: 20px;
+  flex-basis: 33%;
+  box-sizing: border-box;
+  flex-grow: 1;
+  align-self: flex-start;
 }
