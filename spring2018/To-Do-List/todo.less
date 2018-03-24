@@ -1,3 +1,5 @@
+@myGradient: linear-gradient(45deg, rgba(119,81,254,1) 0%, rgb(0, 171, 255) 100%);
+
 html, body{
   padding: 0;
   margin: 0;
@@ -5,12 +7,14 @@ html, body{
   height: 100%;
 }
 body{
-  background: linear-gradient(45deg, rgba(119,81,254,1) 0%, rgb(0, 171, 255) 100%);
+  background: @myGradient;
   display: flex;
   justify-content: center;
   align-items: center;
+
 }
 .container{
+  padding: 0;
   width: 80%;
   height: 90%;
   background-color: #f4f8f9;
@@ -30,30 +34,34 @@ body{
       padding-right: 20px;
     }
   }
-  .main{
-    width: 90%;
-    height: auto;
+  .main {
+    display: none;
     margin: 25px auto;
-    background-color: #08b0ff;
-    border-radius: 4px;
-    padding: 5px 10px;
     box-sizing: border-box;
-    .header{
-      display: flex;
-      justify-content: space-between;
-      .headleft{
+    .list-box {
+      box-sizing: border-box;
+      margin: 10px auto;
+      background-color: #08b0ff;
+      width: 90%;
+      height: auto;
+      border-radius: 4px;
+      padding: 5px 10px;
+      .header {
+        display: flex;
+        justify-content: space-between;
+        .headleft {
 
+        }
+        .headright {
+
+        }
       }
-      .headright{
+      .list {
 
+        .todolist {
+          margin-left: 50px;
+        }
       }
     }
-  .list{
-    padding-left: 50px;
-    .todolist{
-
-    }
   }
-  }
-
 }

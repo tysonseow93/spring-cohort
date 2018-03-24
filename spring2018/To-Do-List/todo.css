@@ -12,6 +12,7 @@ body {
   align-items: center;
 }
 .container {
+  padding: 0;
   width: 80%;
   height: 90%;
   background-color: #f4f8f9;
@@ -33,18 +34,23 @@ body {
   padding-right: 20px;
 }
 .container .main {
-  width: 90%;
-  height: auto;
+  display: none;
   margin: 25px auto;
-  background-color: #08b0ff;
-  border-radius: 4px;
-  padding: 5px 10px;
   box-sizing: border-box;
 }
-.container .main .header {
+.container .main .list-box {
+  box-sizing: border-box;
+  margin: 10px auto;
+  background-color: #08b0ff;
+  width: 90%;
+  height: auto;
+  border-radius: 4px;
+  padding: 5px 10px;
+}
+.container .main .list-box .header {
   display: flex;
   justify-content: space-between;
 }
-.container .main .list {
-  padding-left: 50px;
+.container .main .list-box .list .todolist {
+  margin-left: 50px;
 }

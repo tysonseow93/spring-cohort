@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ICA form validation</title>
+</head>
+<body>
+<form name="inputStuff">
+    <input type="text" name="text-box" value="enter message" onclick="clearText()">
+
+    <input type="submit" name="submit-btn" onclick="formThing()">
+
+</form>
+
+<script>
+   var getForm =  document.forms.inputStuff;
+   var getTextBox = getForm.elements["text-box"];
+   var minlength = 2;
+
+   function formThing() {
+       if(getTextBox.value.length > minlength && isNaN(getTextBox.value) === true){
+            alert("Thank you for your message: " + getTextBox.value)
+       }
+       else if(typeof parseInt(getTextBox.value) === 'number'){
+            alert("Sorry you entered a number. (" + getTextBox.value +") Please enter a text message.")
+       }else{
+           alert("Sorry that is not a valid entry please try again.")
+       }
+   }
+   function clearText() {
+       getTextBox.value = "";
+   }
+</script>
+</body>
+</html>

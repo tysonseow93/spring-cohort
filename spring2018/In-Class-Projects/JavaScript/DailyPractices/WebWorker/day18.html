@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>day 18</title>
+</head>
+<body>
+
+    <p>Worker</p>
+    <div id="output"></div>
+    <button onclick="startWorker()">Start</button>
+    <button onclick="stopWorker()">Stop</button>
+
+
+
+</body>
+<script>
+    let w;
+
+    function startWorker() {
+        if(typeof(Worker) != "undefined"){
+            if(typeof(w) === "undefined"){
+                w = new Worker("day18.js");
+            }
+            w.onmessage = function (event) {
+                document.getElementById("output").innerHTML =event.data;
+            }
+
+        }
+        else {
+            document.getElementById("output").innerHTML = "Stop using IE, it won't work";
+        }
+    }
+
+    function stopWorker() {
+        w.terminate();
+        w = undefined;
+    }
+
+</script>
+</html>
