@@ -9,7 +9,8 @@
                     + listname
                 + '</div>'
                 +'<div class="headright">'
-                    // + '<input type="text" class="createItemInput"> '
+                     + '<input id="inlineCreate" type="text" class="createItemInput">'
+                     + '<button onclick=createListItemInline(this)>Add Items</button>'
                     + '<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addItemModal" data-whatever="@mdo" onclick="addItem(this)">Add Items</button>'
                 +'</div>'
             +'</div>'
@@ -31,7 +32,7 @@ function removeList(){
 }
 
 function removeListItem() {
-    
+
 }
 
 function markListComplete() {
@@ -39,16 +40,19 @@ function markListComplete() {
 }
 
 function markListItemComplete(){
-    
+
 }
 
 function createAListItem(){
     let listItem = $('#createItemInput').val();
     $('.todolist').append('<li>' + listItem + '</li>');
-
     $('#createItemInput').val("");
-
 }
+ function createListItemInline(element){
+     let listItem = $('#inlineCreate').val();
+     $(element).parent().parent().find('.todolist').append('<li>' + listItem + '</li>');
+     $('#inlineCreate').val("");
+ }
 
 //using the modal to add list items
 
