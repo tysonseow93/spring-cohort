@@ -59,9 +59,20 @@ body{
       .list {
 
         .todolist {
-          margin-left: 50px;
+
+          .todoitem{
+            display: flex;
+            justify-content: space-between;
+            li{
+              text-decoration: none;
+            }
+          }
         }
       }
     }
   }
+}
+.completed{
+  text-decoration: line-through;
+  color: #CCCCCC;
 }

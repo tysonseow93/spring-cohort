@@ -51,6 +51,14 @@ body {
   display: flex;
   justify-content: space-between;
 }
-.container .main .list-box .list .todolist {
-  margin-left: 50px;
+.container .main .list-box .list .todolist .todoitem {
+  display: flex;
+  justify-content: space-between;
+}
+.container .main .list-box .list .todolist .todoitem li {
+  text-decoration: none;
+}
+.completed {
+  text-decoration: line-through;
+  color: #CCCCCC;
 }

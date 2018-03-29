@@ -23,8 +23,6 @@ $(".fa-trash").on("click", function () {
     $(this).parent().slideUp("slow", function(){
         $(this).remove();
     });
-
-
 });
 
 
