@@ -1,5 +1,4 @@
-
- function createAList() {
+function createAList() {
     let listname = $('#createinput').val();
      $('.main').append(
          '<div class="list-box">'
@@ -21,9 +20,9 @@
      $('#createinput').val("");
      $('.main').show(this);
  }
-
  $(document).ready(function() {
      let $active;
+
      $(document).on( 'click', '.addItem', function(e){
          let $button = $(this);
          $active = $button.closest('.list-box');
@@ -35,7 +34,7 @@
      $(document).on("click", ".fa-trash",function () {
          $(this).parent().parent('.list-box').remove();
      });
-     $(document).on('click', '#createItemBtn',function(e){
+     $(document).on('click', '#createItemBtn',function(){
          let listItem = $('#createItemInput').val();
          $active.find('.todolist').append('<div class="todoitem">'+'<li>'+ '<input type="checkbox" class="markComplete">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
          $('#createItemInput').val("");
@@ -43,9 +42,7 @@
      $(document).on("click", ".markComplete", function() {
          $(this).closest("li").toggleClass("completed");
      });
-
      $(document).on("click", ".fa-trash",function () {
          $(this).parent().remove();
      });
-
- })
+ });

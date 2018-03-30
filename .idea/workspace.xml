@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,16 +13,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6638478">
+    <splitter split-orientation="horizontal" split-proportion="0.62931645">
       <split-first>
-        <splitter split-orientation="horizontal" split-proportion="0.5">
+        <splitter split-orientation="horizontal" split-proportion="0.44955158">
           <split-first>
             <leaf>
               <file leaf-file-name="todo.html" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="125">
-                      <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+                    <state relative-caret-position="210">
+                      <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
                       <folding />
                     </state>
                   </provider>
@@ -37,8 +35,8 @@
               <file leaf-file-name="todo.js" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="532">
-                      <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+                    <state relative-caret-position="363">
+                      <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
                       <folding />
                     </state>
                   </provider>
@@ -53,8 +51,8 @@
           <file leaf-file-name="todo.less" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+                <state relative-caret-position="453">
+                  <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -123,11 +121,11 @@
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/testing/jasmine-standalone-3.1.0/src/testFunctions.js" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/testing/jasmine-standalone-3.1.0/spec/testFunction.spec.js" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day16.js" />
-        <option value="$PROJECT_DIR$/spring2018/To-Do-List/todo.html" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day16.html" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/HTML5 CANVAS/index.html" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/HTML5 CANVAS/style.css" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/HTML5 CANVAS/action.js" />
+        <option value="$PROJECT_DIR$/spring2018/To-Do-List/todo.html" />
         <option value="$PROJECT_DIR$/spring2018/To-Do-List/todo.js" />
         <option value="$PROJECT_DIR$/spring2018/To-Do-List/todo.less" />
       </list>
@@ -274,12 +272,12 @@
       <workItem from="1518307810256" duration="266000" />
       <workItem from="1518308211098" duration="7410000" />
       <workItem from="1518792148145" duration="86012000" />
-      <workItem from="1520196459241" duration="158400000" />
+      <workItem from="1520196459241" duration="160938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="369664000" />
+    <option name="totallyTimeSpent" value="372202000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -738,24 +736,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="67" column="13" lean-forward="true" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="363">
+          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="51" column="26" lean-forward="true" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="453">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding />
         </state>
       </provider>
