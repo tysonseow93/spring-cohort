@@ -4,6 +4,8 @@
      $('.main').append(
          '<div class="list-box">'
             +'<div class="header">'
+                + '<input type="checkbox" class="markCompleteList">'
+                + '<div class="fa fa-trash"></div>'
                 + '<div class="headleft">'
                     + listname
                 + '</div>'
@@ -27,19 +29,23 @@
          $active = $button.closest('.list-box');
          e.stopPropagation();
      });
-
+     $(document).on("click", ".markCompleteList", function() {
+         $(this).parent().parent('.list-box').toggleClass("completed");
+     });
+     $(document).on("click", ".fa-trash",function () {
+         $(this).parent().parent('.list-box').remove();
+     });
      $(document).on('click', '#createItemBtn',function(e){
          let listItem = $('#createItemInput').val();
-         $active.find('.todolist').append('<div class="todoitem">'+'<input type="checkbox" class="markComplete">'+'<li>' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
+         $active.find('.todolist').append('<div class="todoitem">'+'<li>'+ '<input type="checkbox" class="markComplete">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
          $('#createItemInput').val("");
      });
      $(document).on("click", ".markComplete", function() {
-         $(this).siblings("li").toggleClass("completed");
+         $(this).closest("li").toggleClass("completed");
      });
 
      $(document).on("click", ".fa-trash",function () {
          $(this).parent().remove();
-
      });
 
  })

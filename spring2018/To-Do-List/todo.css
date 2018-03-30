@@ -51,14 +51,24 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.container .main .list-box .header .markCompleteList {
+  margin-right: 20px;
+}
+.container .main .list-box .header .headleft {
+  margin: 0 auto;
+}
 .container .main .list-box .list .todolist .todoitem {
   display: flex;
   justify-content: space-between;
+  margin: 5px 0px;
 }
 .container .main .list-box .list .todolist .todoitem li {
-  text-decoration: none;
+  list-style-type: none;
 }
 .completed {
   text-decoration: line-through;
   color: #CCCCCC;
+}
+.markComplete {
+  margin-right: 20px;
 }

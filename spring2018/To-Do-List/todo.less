@@ -49,8 +49,11 @@ body{
       .header {
         display: flex;
         justify-content: space-between;
+        .markCompleteList{
+          margin-right: 20px;
+        }
         .headleft {
-
+          margin: 0 auto;
         }
         .headright {
 
@@ -63,8 +66,9 @@ body{
           .todoitem{
             display: flex;
             justify-content: space-between;
+            margin: 5px 0px;
             li{
-              text-decoration: none;
+              list-style-type: none;
             }
           }
         }
@@ -75,4 +79,7 @@ body{
 .completed{
   text-decoration: line-through;
   color: #CCCCCC;
+}
+.markComplete{
+  margin-right: 20px;
 }
