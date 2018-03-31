@@ -30,7 +30,7 @@
              +'<div class="header">'
              + '<input type="checkbox" class="markCompleteList">'
              + '<div class="fa fa-trash"></div>'
-             + '<div class="headleft">'
+             + '<div class="headleft" contenteditable="true">'
              + listname
              + '</div>'
              +'<div class="headright">'
@@ -59,11 +59,11 @@
      });
      $(document).on('click', '#createItemBtn',function(){
          let listItem = $('#createItemInput').val();
-         $active.find('.todolist').append('<div class="todoitem">'+'<li>'+ '<input type="checkbox" class="markComplete">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
+         $active.find('.todolist').append('<div class="todoitem">' + '<input type="checkbox" class="markComplete">' + '<li contenteditable="true">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
          $('#createItemInput').val("");
      });
      $(document).on("click", ".markComplete", function() {
-         $(this).closest("li").toggleClass("completed");
+         $(this).siblings("li").toggleClass("completed");
      });
      $(document).on("click", ".fa-trash",function () {
          $(this).parent().remove();
@@ -85,7 +85,7 @@
                  +'<div class="header">'
                  + '<input type="checkbox" class="markCompleteList">'
                  + '<div class="fa fa-trash"></div>'
-                 + '<div class="headleft">'
+                 + '<div class="headleft" contenteditable="true">'
                  + listname
                  + '</div>'
                  +'<div class="headright">'
@@ -105,7 +105,7 @@
          if( e.keyCode === 13 ) {
              e.preventDefault();
              let listItem = $('#createItemInput').val();
-             $active.find('.todolist').append('<div class="todoitem">' +'<li>'+ '<input type="checkbox" class="markComplete">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
+             $active.find('.todolist').append('<div class="todoitem">' + '<input type="checkbox" class="markComplete">' + '<li contenteditable="true">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
              $('#createItemInput').val("");
          }
      });
