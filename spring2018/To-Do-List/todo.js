@@ -105,7 +105,7 @@
          if( e.keyCode === 13 ) {
              e.preventDefault();
              let listItem = $('#createItemInput').val();
-             $active.find('.todolist').append('<div class="todoitem">'+'<li>'+ '<input type="checkbox" class="markComplete">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
+             $active.find('.todolist').append('<div class="todoitem">' +'<li>'+ '<input type="checkbox" class="markComplete">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
              $('#createItemInput').val("");
          }
      });
