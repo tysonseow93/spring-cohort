@@ -1,0 +1,32 @@
+html,
+body {
+  width: 100%;
+  height: 650px;
+}
+.container {
+  height: 100%;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+}
+.container .scoreCard {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.container .scoreCard .left {
+  display: flex;
+  flex-direction: column;
+  background: darkgray;
+  width: 15%;
+}
+.container .scoreCard .right {
+  display: flex;
+  justify-content: space-around;
+  background: grey;
+  width: 75%;
+}
+.container .scoreCard .right .column {
+  border: 1px solid #dadfea;
+  padding: 15px;
+}

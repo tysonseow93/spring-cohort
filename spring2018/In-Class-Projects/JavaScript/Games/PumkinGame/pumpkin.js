@@ -1,7 +1,7 @@
 // JavaScript Document
 
 
-var gametitle = "Pumpkin Game";
+var gametitle = "Pumpkin Games";
 var pumpkinpatch = "";
 var numpumpkins;
 numpumpkins = 0;
