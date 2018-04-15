@@ -10,18 +10,23 @@
             crossorigin="anonymous"></script>
     <script defer src="action.js"></script>
 </head>
-<body onload="createScoreCard(), loadPlayers()">
+<body onload="createScoreCard()">
     <div class="container">
 
         <div class="scoreCard">
+            <div class="scoreCardHeader">
+                <span>Players Names:</span>
             <div id="playersNames" class="left">
                 <!--players names go here-->
+            </div>
             </div>
             <div id="playersScores" class="right">
                 <!--dynamically added columns-->
             </div>
         </div>
     </div>
+
+
 
 </body>
 </html>

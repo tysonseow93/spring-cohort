@@ -18,15 +18,17 @@ body {
   display: flex;
   flex-direction: column;
   background: darkgray;
-  width: 15%;
 }
 .container .scoreCard .right {
   display: flex;
-  justify-content: space-around;
-  background: grey;
-  width: 75%;
 }
-.container .scoreCard .right .column {
+.container .scoreCard .right .cHeader {
+  text-align: center;
+}
+.container .scoreCard .right .cHeader .column {
   border: 1px solid #dadfea;
-  padding: 15px;
+  padding: 5px;
+}
+.container .scoreCard .right .cHeader .column .holeInput {
+  width: 30px;
 }

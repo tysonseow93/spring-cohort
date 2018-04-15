@@ -11,21 +11,27 @@ html, body {
       width: 100%;
       display: flex;
       justify-content: center;
+      .scoreCardHeader{
+
+      }
       .left{
         display: flex;
         flex-direction: column;
         background: darkgray;
-        width: 15%
-      }
-      .right{
-        display: flex;
-        justify-content: space-around;
-        background: grey;
-        width: 75%;
 
-        .column{
-          border: 1px solid #dadfea;
-          padding: 15px;
+      }
+      .right {
+        display: flex;
+
+        .cHeader {
+          text-align: center;
+          .column {
+            border: 1px solid #dadfea;
+            padding: 5px;
+            .holeInput {
+              width: 30px;
+            }
+          }
         }
       }
     }

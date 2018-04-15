@@ -21,7 +21,7 @@
 //      $('.main').show(this);
 //  }
 
- $(document).ready(function() {
+$(document).ready(function() {
      let $active;
      $(document).on( 'click', '#createBtn', function(){
          let listname = $('#createinput').val();

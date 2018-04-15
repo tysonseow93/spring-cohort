@@ -39,6 +39,7 @@ function jqCall() {
         success: function (data, status) {
             console.log(data);
             let myObj = data;
+            $('#demo3').append("<img src='http://www.openweathermap.org/img/w/" + myObj.weather[0].icon +".png'>");
             $('#demo3').append(myObj.weather[0].description);
         }
     });
