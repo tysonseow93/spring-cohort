@@ -1,5 +1,7 @@
 let linkBlink;
 let linkWalk;
+let backgroundSprite;
+
 
 //Base definition of Sprite element (Sprite Constructor)
 function Sprite(img, x, y, width, height) {
@@ -34,4 +36,5 @@ function initSprites(img){
         new Sprite(img, 760, 420, 90, 105),
         new Sprite(img, 855, 420, 90, 105)
     ];
+    backgroundSprite = new Sprite(img, 23, 850, 917, 529);
 }

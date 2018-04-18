@@ -37,25 +37,25 @@ class LinkedList {
     }
 
   remove(value) {
-  //     var previousNode, currentNode;
-  //     previousNode = this.start;
-  //     currentNode = previousNode.next;
-  //     if(this.contains(value) === true){
-  //         this.size--;
-  //         while(value !== currentNode.value){
-  //             previousNode = previousNode.next;
-  //             if(previousNode === null){
-  //                 return false;
-  //             }
-  //             if(this.start.value === value){
-  //                 this.start = this.start.next;
-  //             }
-  //             if(currentNode.value === value){
-  //                 previousNode.next = currentNode;
-  //                 currentNode = currentNode.next;
-  //             }
-  //         }
-  //     }
+      var previousNode, currentNode;
+      previousNode = this.start;
+      currentNode = previousNode.next;
+      if(this.contains(value) === true){
+          this.size--;
+          while(value !== currentNode.value){
+              previousNode = previousNode.next;
+              if(previousNode === null){
+                  return false;
+              }
+              if(this.start.value === value){
+                  this.start = this.start.next;
+              }
+              if(currentNode.value === value){
+                  previousNode.next = currentNode;
+                  currentNode = currentNode.next;
+              }
+          }
+      }
 
           //link previous item to next item and remove current item
 

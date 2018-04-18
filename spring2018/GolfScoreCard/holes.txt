@@ -1,0 +1,78 @@
+
+{"holes":
+        [
+            {"name": 1, "tees":[
+
+                {"teeName": "Champion", "teeData": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"teeName": "Pro", "teeData": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"teeName": "Men's", "teeData": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"teeName": "Women's", "teeData": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 2, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 3, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 4, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 5, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 6, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 7, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 8, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]},
+            {"name": 9, "tees":[
+
+                {"Champion": {"yardage": 312, "par": 5, "hcp": 3}},
+                {"Pro": {"yardage": 295, "par": 6, "hcp": 4}},
+                {"Men's": {"yardage": 280, "par": 5, "hcp": 3}},
+                {"Women's": {"yardage": 260, "par": 4, "hcp": 2}}
+
+            ]}
+
+        ]
+}

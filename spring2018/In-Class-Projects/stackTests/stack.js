@@ -14,7 +14,7 @@ class Stack {
             return null;
         }
 
-        let poppedValue = this.array[--this.index]
+        let poppedValue = this.array[--this.index];
         this.array.length = this.array.length-1;
 
         return poppedValue;

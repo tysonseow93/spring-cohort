@@ -10,18 +10,24 @@
             crossorigin="anonymous"></script>
     <script defer src="action.js"></script>
 </head>
-<body onload="createScoreCard()">
+<body>
     <div class="container">
 
+
+        <select id="teeSelect">
+
+        </select>
         <div class="scoreCard">
+
             <div class="scoreCardHeader">
-                <span>Players Names:</span>
-            <div id="playersNames" class="left">
-                <!--players names go here-->
+
+                <div class="playerHeader">Players Names:</div>
+
+
             </div>
-            </div>
-            <div id="playersScores" class="right">
-                <!--dynamically added columns-->
+            <div class="cardMain">
+                <div id="playersNames" class="left"></div>
+                <div id="playersScores" class="right"></div>
             </div>
         </div>
     </div>

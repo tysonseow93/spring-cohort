@@ -3,8 +3,8 @@
 var canvas;
 var blueFill = "#8be4fd";
 var renderingContext;
-var width = 600;
-var height = 500;
+var width = 917;
+var height = 529;
 var frames = 0;
 var myHero;
 var myHeroBlink;
@@ -182,11 +182,13 @@ function Hero(x, y) {
         renderingContext.restore();
 
     };
+
 }
 
 function loadGraphics() {
     let img = new Image();
-    img.src = "images/link_sprite_sheet.png";
+    img.src = "images/link.png";
+
     img.onload = function () {
         initSprites(img);
         renderingContext.fillStyle = blueFill;
@@ -213,7 +215,9 @@ function update() {
 function render() {
     // draw stuff constantly based on status
     renderingContext.fillRect( 0, 0, width, height);
+    myHeroWalk.drawWalk(renderingContext, 0, 0);
     myHero.drawWalk(renderingContext);
     myHeroBlink.drawBlink(renderingContext);
     myHeroWalk.drawWalk(renderingContext);
+
 }

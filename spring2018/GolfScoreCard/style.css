@@ -5,14 +5,13 @@ body {
 }
 .container {
   height: 100%;
-  display: flex;
   margin: 0 auto;
-  align-items: center;
 }
 .container .scoreCard {
   width: 100%;
+}
+.container .scoreCard .scoreCardHeader {
   display: flex;
-  justify-content: center;
 }
 .container .scoreCard .left {
   display: flex;

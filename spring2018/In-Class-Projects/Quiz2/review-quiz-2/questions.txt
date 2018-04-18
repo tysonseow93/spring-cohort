@@ -1,0 +1,83 @@
+----------------------------
+  JavaScript Review Quiz 2
+----------------------------
+Instructions:  
+
+Using the files contained in this zip file, implement solutions for the questions below.  Each question has a folder associated with it
+containing the file where you will write your code, and a second file that contains the Jasmine tests relevant to that question.
+               
+Question folders are as follows:
+1. first-duplicate
+2. search
+3. computer
+4. sorting
+5. stack
+6. linked-list
+
+All tests can be run by opening test.html in your browser.  If you want to comment out some tests to make it easier to focus on the question that you are
+working on, you are more than welcome to do so.  Other than commenting, do not modify the tests in any way.               
+
+1.  Given an array a that contains only numbers in the range from 1 to a.length, find the first duplicate number for which the second occurrence has the minimal index. In other words, if there are more than 1 duplicated numbers, return the number for which the second occurrence has a smaller index than the second occurrence of the other number does. If there are no such elements, return -1.
+    
+    Example:
+      For array = [2, 3, 3, 1, 5, 2], the output should be
+      firstDuplicate(a) = 3.
+    
+    There are 2 duplicates: numbers 2 and 3. The second occurrence of 3 has a smaller index than than second occurrence of 2 does, so the answer is 3.
+    
+    For array = [2, 4, 3, 5, 1], the output should be firstDuplicate(array) = -1.
+
+
+2.  Given an array of names, write a function named search which takes two parameters: a list of names
+    and a string to search for, and returns an array of all the names that contain the specified string.
+    Your function should be case insensitive.
+
+    function search(nameList, searchTerm) {...}
+   
+    Example:
+       search(['Bryce', 'Ron', 'Sarah', 'Brett', 'Steven', 'Benjamin'], 'B') => ['Bryce', 'Brett', 'Benjamin']
+       search(['Bryce', 'Ron', 'Sarah', 'Brett', 'Steven', 'Benjamin'], 'br') => ['Bryce', 'Brett']
+       search(['Bryce', 'Ron', 'Sarah', 'Brett', 'Steven', 'Benjamin'], 'bry') => ['Bryce']
+
+    Hint:  You can get an all uppercase copy of a string by calling .toUpperCase(), or an all lowercase copy by calling .toLowerCase()
+
+
+3.  Implement a class named 'Computer' with the following properties and functions:
+      Properties:
+        make: string
+        model: string
+        driveCapacity: number
+        batteryPercent: number
+        batteryPercent: boolean (true = on, false = off)
+
+      Functions:
+        constuctor() --> should take 3 arguments: make, model, capacity and set the arugments to their
+                         respective properties of the computer class (this.make, this.model, this.driveCapacity)
+        
+        getBatteryPercent() --> should return a string value of the batteryPercent property followed by a percent symbol
+        
+        getStatus() --> should return the string value of the status property, 'ON' if the computer
+                        is on, 'OFF' if the computer is off
+
+
+4.  Using any algorithm of your choice, write a function called 'sort' that takes an array of numbers and 
+    returns a array of numbers sorted in ascending order
+
+    Example:  function sort([3, 5, 1, 7, 5]) ==> [1, 3, 5, 5, 7]
+
+-----------------------------------------------------------------------------------------------------------------------------
+The following two qustions focus on debugging.  When you get into the industry, you do not always get to work on your own
+code; in fact you will probably spend equal time writing new code as you will fixing/maintaining code written by someone
+else, possibly with a differing code style.
+
+Isolate test suites by commenting out sections of the tests that you aren't focusing on while you fix other pieces, one
+test at a time.  Use the debugging tools of the browser (set breakpoints, use the console to check values of variables, and
+look for errors) to help you find where the bugs in the code are.
+-----------------------------------------------------------------------------------------------------------------------------
+
+5.  A broken implementation of a Stack has been provided along with tests.  Fix all of the broken
+    tests without breaking any of the others.
+
+
+6.  An broken implementation of a Linked List has been provided along with tests.  Fix all of the broken
+    tests without breaking any of the others.
