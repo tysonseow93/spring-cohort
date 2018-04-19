@@ -19,7 +19,7 @@ class LinkedList {
     let previousNode = this.firstNode;
     let currentNode = previousNode.next;
 
-    let foundValue = currentNode.value;
+    let foundValue = valueToRemove = currentNode.value;
 
     while (!foundValue) {
       previousNode = currentNode;

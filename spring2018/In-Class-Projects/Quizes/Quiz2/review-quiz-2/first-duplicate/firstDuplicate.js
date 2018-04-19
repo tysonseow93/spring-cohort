@@ -8,17 +8,20 @@ function firstDuplicate(array) {
 
     if(duplicateFound !== true) {
 
-        for(let i = 0; i < len; i++){
+        first: for(let i = 0; i < len; i++){
+
             seenNumbers.push(array.shift());
             for (let j = 0; j < len; j++) {
                 if (seenNumbers[i] === array[j]) {
                     duplicateFound = true;
-                    result = array[j];
-
+                    result = array[i];
+                    break first;
                 }
+
             }
 
         }
+
         return result;
     }
 
