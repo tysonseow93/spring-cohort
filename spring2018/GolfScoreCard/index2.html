@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"
+            integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ"
+            crossorigin="anonymous"></script>
+    <script defer src="action2.js"></script>
+</head>
+<body>
+
+    <select class="coursesDropdown" onchange="getCourse(this.value)">
+        <option>Select a course</option>
+    </select>
+    <select class="teeDropdown" onchange="setTee(this.value)">
+        <option>Select a Difficulty</option>
+    </select>
+
+    <div class="card">
+
+        <div class="left"></div>
+        <div class="right"></div>
+
+    </div>
+
+</body>
+</html>

@@ -16,10 +16,10 @@ class LinkedList {
   }
 
   remove(valueToRemove) {
-    let previousNode = this.firstNode;
-    let currentNode = previousNode.next;
+    let currentNode = this.firstNode;
+    let  previousNode;
 
-    let foundValue = valueToRemove = currentNode.value;
+    let foundValue = valueToRemove === currentNode.value;
 
     while (!foundValue) {
       previousNode = currentNode;
@@ -29,7 +29,7 @@ class LinkedList {
         return null;
       }
 
-      foundValue = valueToRemove = currentNode.value;
+      foundValue = valueToRemove === currentNode.value;
     }
 
     let nextNode = currentNode.next;
@@ -39,7 +39,7 @@ class LinkedList {
     } else {
       previousNode.next = nextNode;
     }
-
+    this.listSize--;
 
   }
 
