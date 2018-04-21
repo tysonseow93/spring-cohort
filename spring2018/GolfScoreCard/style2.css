@@ -1,0 +1,51 @@
+html,
+body {
+  width: 100%;
+  height: auto;
+}
+html .container,
+body .container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 80%;
+  height: 600px;
+}
+html .container .scoreCard,
+body .container .scoreCard {
+  width: 100%;
+  display: flex;
+}
+html .container .scoreCard .left,
+body .container .scoreCard .left {
+  width: 100px;
+}
+html .container .scoreCard .left .playerCol,
+body .container .scoreCard .left .playerCol {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+}
+html .container .scoreCard .left .playerCol .playerLabel,
+body .container .scoreCard .left .playerCol .playerLabel {
+  width: 100px;
+}
+html .container .scoreCard .right,
+body .container .scoreCard .right {
+  width: 80%;
+  display: flex;
+}
+html .container .scoreCard .right .column,
+body .container .scoreCard .right .column {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+}
+html .container .scoreCard .right .column input,
+body .container .scoreCard .right .column input {
+  width: 30px;
+}

@@ -7,27 +7,27 @@ body {
   height: 100%;
   margin: 0 auto;
 }
-.container .scoreCard {
+.container .cardMain {
   width: 100%;
 }
-.container .scoreCard .scoreCardHeader {
+.container .cardMain .scoreCardHeader {
   display: flex;
 }
-.container .scoreCard .left {
+.container .cardMain .left {
   display: flex;
   flex-direction: column;
   background: darkgray;
 }
-.container .scoreCard .right {
+.container .cardMain .right {
   display: flex;
 }
-.container .scoreCard .right .cHeader {
+.container .cardMain .right .cHeader {
   text-align: center;
 }
-.container .scoreCard .right .cHeader .column {
+.container .cardMain .right .cHeader .column {
   border: 1px solid #dadfea;
   padding: 5px;
 }
-.container .scoreCard .right .cHeader .column .holeInput {
+.container .cardMain .right .cHeader .column .holeInput {
   width: 30px;
 }
