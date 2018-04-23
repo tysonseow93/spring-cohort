@@ -4,8 +4,6 @@
     <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/link-game" beforeDir="false" afterPath="$PROJECT_DIR$/link-game" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49539748">
+    <splitter split-orientation="horizontal" split-proportion="0.47077408">
       <split-first>
         <leaf>
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
@@ -35,6 +33,24 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1049">
                   <caret line="75" column="13" lean-forward="true" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="todo.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -57,20 +73,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style2.less" pinned="false" current-in-tab="true">
+          <file leaf-file-name="style2.less" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/style2.less">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="630">
-                  <caret line="42" selection-start-line="42" selection-end-line="42" />
+                <state relative-caret-position="553">
+                  <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index2.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
                 </state>
               </provider>
             </entry>
@@ -82,8 +98,8 @@
           <file leaf-file-name="action2.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/action2.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="460">
-                  <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+                <state relative-caret-position="185">
+                  <caret line="156" column="18" lean-forward="true" selection-start-line="156" selection-start-column="18" selection-end-line="156" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -178,10 +194,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1440" />
-    <option name="y" value="-96" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -262,6 +276,12 @@
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
               <item name="Salon-website" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="To-Do-List" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -333,12 +353,12 @@
       <workItem from="1523629221927" duration="6108000" />
       <workItem from="1523718960121" duration="118000" />
       <workItem from="1523719267502" duration="26624000" />
-      <workItem from="1523929042085" duration="50586000" />
+      <workItem from="1523929042085" duration="58142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="526923000" />
+    <option name="totallyTimeSpent" value="534479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,17 +370,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="-96" width="1920" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15785764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15715292" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31678253" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51021844" side_tool="true" weight="0.32648125" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32627118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" weight="0.29096046" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" weight="0.29054725" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -376,7 +396,7 @@
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15785764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15745129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -384,7 +404,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32627118" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" weight="0.29096046" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" visible="true" weight="0.29054725" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51021844" side_tool="true" weight="0.32648125" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32768363" />
@@ -409,13 +429,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/LinkedList/linked-list/tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Sorting/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -440,13 +453,6 @@
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-614" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/link-game/sprite.js">
@@ -660,13 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/Salon-website/salon.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-127" />
@@ -686,6 +685,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/action.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1049">
@@ -693,24 +699,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index2.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        <state relative-caret-position="105">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/To-Do-List/todo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/style2.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="553">
+          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/action2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
+        <state relative-caret-position="185">
+          <caret line="156" column="18" lean-forward="true" selection-start-line="156" selection-start-column="18" selection-end-line="156" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
         </state>
       </provider>
     </entry>

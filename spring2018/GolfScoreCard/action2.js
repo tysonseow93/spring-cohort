@@ -1,6 +1,7 @@
 var numplayers = 4;
 var allCourses;
 var selcourse;
+let totalp1in, totalp1out, totalp2in, totalp2out, totalp3in, totalp3out, totalp4in, totalp4out;
 
 loadDoc();
 
@@ -51,6 +52,7 @@ function getCourse(courseId) {
 
 
 function setTee(teeIndex) {
+    $('.left').html('');
     $('.right').html('');
     $('.right').append(
         '<div class="column">'+
@@ -64,16 +66,20 @@ function setTee(teeIndex) {
     let totalYardsOut = 0;
     let totalParIn = 0;
     let totalParOut = 0;
+    let totalHCPIn = 0;
+    let totalHCPOut = 0;
 
     let mycourse = selcourse.data.holes;
     for(let i = 0; i < mycourse.length; i++){
         if(i <= 8){
             totalYardsIn += Number(mycourse[i].teeBoxes[teeIndex].yards);
             totalParIn += Number(mycourse[i].teeBoxes[teeIndex].par);
+            totalHCPIn += Number(mycourse[i].teeBoxes[teeIndex].hcp);
         }
         if(i < mycourse.length && i >= 9){
             totalYardsOut += Number(mycourse[i].teeBoxes[teeIndex].yards);
             totalParOut += Number(mycourse[i].teeBoxes[teeIndex].par);
+            totalHCPOut += Number(mycourse[i].teeBoxes[teeIndex].hcp);
         }
 
         $('.right').append(
@@ -87,37 +93,46 @@ function setTee(teeIndex) {
 
 
     $('#c8').after(
-        '<div class="column">'+
-        '<div class="totals" id="totalIn">IN</div>'+
+        '<div class="column" id="totalIn">'+
+        '<div class="totals">IN</div>'+
         '<div class="yards">'+ totalYardsIn +'</div>'+
         '<div class="par">'+ totalParIn +'</div>'+
+        '<div class="hcp">'+ totalHCPIn +'</div>'+
         '</div>'
     );
     $('.right').append(
-        '<div class="column">'+
-        '<div class="totals" id="totalOut">OUT</div>'+
+        '<div class="column" id="totalOut">'+
+        '<div class="totals">OUT</div>'+
         '<div class="yards">'+ totalYardsOut +'</div>'+
         '<div class="par">'+ totalParOut +'</div>'+
+        '<div class="hcp">'+ totalHCPOut +'</div>'+
         '</div>'+
-        '<div class="column">'+
-        '<div class="totals" id="totalScore">TOT</div>'+
-        '<div class="yards"></div>'+
-        '<div class="par"></div>'+
+        '<div class="column" id="totalScore">'+
+        '<div class="totals">TOT</div>'+
+        '<div class="yards">'+ (totalYardsIn + totalYardsOut) +'</div>'+
+        '<div class="par">'+ (totalParIn + totalParOut) +'</div>'+
+        '<div class="hcp">'+ (totalHCPIn + totalHCPOut) +'</div>'+
         '</div>'
 
     );
-    buildCard();
-}
-function buildCard() {
-    $('.left').html('');
+
     $('.left').append(
         '<div class="playerCol">'+
         '<div class="playerHeader">Players</div>'+
         '<div class="playerMain"></div>'+
         '</div>'
     );
+    buildCard();
+}
+function buildCard() {
+
     for(let p = 1; p <= numplayers; p++){
         $('.playerMain').append('<div id="playerRow'+ p +'" class="playerLabel" contenteditable="true">Player '+ p +'</div>');
+        $('#totalIn').append('<div id="player'+ p +'scoreIn"></div>');
+        $('#totalOut').append('<div id="player'+ p +'scoreOut"></div>');
+        $('#totalScore').append('<div id="player'+ p +'totalScore"></div>');
+
+
         for(let h = 0; h < selcourse.data.holes.length; h++){
 
             $('#c' + h).append('<input type="number" class="holeInput" id="p' + p + 'h' + h + '" type="text">');
@@ -125,19 +140,21 @@ function buildCard() {
     }
 }
 
+
+
 $(document).ready(function () {
     $(document).on('change', '.holeInput', function(){
-        let totalp1in = 0;
-        let totalp1out = 0;
-        let totalp2in = 0;
-        let totalp2out = 0;
-        let totalp3in = 0;
-        let totalp3out = 0;
-        let totalp4in = 0;
-        let totalp4out = 0;
+        totalp1in = 0;
+        totalp1out = 0;
+        totalp2in = 0;
+        totalp2out = 0;
+        totalp3in = 0;
+        totalp3out = 0;
+        totalp4in = 0;
+        totalp4out = 0;
         let courseLen = selcourse.data.holes.length;
         for(let p = 1;  p <= numplayers; p++){
-            if(1 === p){
+            if(p){
                 for(let h = 0; h < courseLen; h++){
                     if(h <= 8){
                         let selectedInput = $('#p'+p+'h'+h);
@@ -149,59 +166,58 @@ $(document).ready(function () {
                     }
                 }
             }
-            if(2 === p){
-                for(let h = 0; h < courseLen; h++){
-                    if(h <= 8){
-                        let selectedInput = $('#p'+p+'h'+h);
-                        totalp2in += Number(selectedInput.val());
-                    }
-                    if(h < courseLen && h >= 9){
-                        let selectedInput = $('#p'+p+'h'+h);
-                        totalp2out += Number(selectedInput.val());
-                    }
-                }
-            }
-            if(3 === p){
-                for(let h = 0; h < courseLen; h++){
-                    if(h <= 8){
-                        let selectedInput = $('#p'+p+'h'+h);
-                        totalp3in += Number(selectedInput.val());
-                    }
-                    if(h < courseLen && h >= 9){
-                        let selectedInput = $('#p'+p+'h'+h);
-                        totalp3out += Number(selectedInput.val());
-                    }
-                }
-            }
-            if(4 === p){
-                for(let h = 0; h < courseLen; h++){
-                    if(h <= 8){
-                        let selectedInput = $('#p'+p+'h'+h);
-                        totalp4in += Number(selectedInput.val());
-                    }
-                    if(h < courseLen && h >= 9){
-                        let selectedInput = $('#p'+p+'h'+h);
-                        totalp4out += Number(selectedInput.val());
-                    }
-                }
-            }
+            // if(2 === p){
+            //     for(let h = 0; h < courseLen; h++){
+            //         if(h <= 8){
+            //             let selectedInput = $('#p'+p+'h'+h);
+            //             totalp2in += Number(selectedInput.val());
+            //         }
+            //         if(h < courseLen && h >= 9){
+            //             let selectedInput = $('#p'+p+'h'+h);
+            //             totalp2out += Number(selectedInput.val());
+            //         }
+            //     }
+            // }
+            // if(3 === p){
+            //     for(let h = 0; h < courseLen; h++){
+            //         if(h <= 8){
+            //             let selectedInput = $('#p'+p+'h'+h);
+            //             totalp3in += Number(selectedInput.val());
+            //         }
+            //         if(h < courseLen && h >= 9){
+            //             let selectedInput = $('#p'+p+'h'+h);
+            //             totalp3out += Number(selectedInput.val());
+            //         }
+            //     }
+            // }
+            // if(4 === p){
+            //     for(let h = 0; h < courseLen; h++){
+            //         if(h <= 8){
+            //             let selectedInput = $('#p'+p+'h'+h);
+            //             totalp4in += Number(selectedInput.val());
+            //         }
+            //         if(h < courseLen && h >= 9){
+            //             let selectedInput = $('#p'+p+'h'+h);
+            //             totalp4out += Number(selectedInput.val());
+            //         }
+            //     }
+            // }
 
         }
 
+        $('#player1scoreIn').html(totalp1in);
+        $('#player1scoreOut').html(totalp1out);
+        $('#player1totalScore').html(totalp1in + totalp1out);
+        $('#player2scoreIn').html(totalp2in);
+        $('#player2scoreOut').html(totalp2out);
+        $('#player2totalScore').html(totalp2in + totalp2out);
+        $('#player3scoreIn').html(totalp3in);
+        $('#player3scoreOut').html(totalp3out);
+        $('#player3totalScore').html(totalp3in + totalp3out);
+        $('#player4scoreIn').html(totalp4in);
+        $('#player4scoreOut').html(totalp4out);
+        $('#player4totalScore').html(totalp4in + totalp4out);
 
-        console.log('----------------');
-        console.log(totalp1in);
-        console.log(totalp1out);
-        console.log('///////////');
-        console.log(totalp2in);
-        console.log(totalp2out);
-        console.log('///////////');
-        console.log(totalp3in);
-        console.log(totalp3out);
-        console.log('///////////');
-        console.log(totalp4in);
-        console.log(totalp4out);
-        console.log('----------------');
     });
 
 });
