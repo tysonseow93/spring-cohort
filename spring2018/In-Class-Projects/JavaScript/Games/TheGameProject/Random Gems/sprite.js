@@ -1,10 +1,7 @@
-let linkBlink;
-let linkWalk;
-let backgroundSprite;
-let rupee;
+let smallRedGem;
+let bigRedGem;
+let greenGem;
 
-
-//Base definition of Sprite element (Sprite Constructor)
 function Sprite(img, x, y, width, height) {
     this.img = img;
     this.x = x;
@@ -19,13 +16,13 @@ Sprite.prototype.draw = function(renderingContext, x, y){
 
 function initSprites(img){
     //linkSprite = new Sprite(img, 0, 0, 90, 105);
-    linkBlink = [
+    smallRedGem = [
         new Sprite(img, 0, 0, 90, 105),
         new Sprite(img, 95, 0, 90, 105),
         new Sprite(img, 190, 0, 90, 105)
     ];
 
-    linkWalk = [
+    bigRedGem = [
         new Sprite(img, 0, 420, 90, 105),
         new Sprite(img, 95, 420, 90, 105),
         new Sprite(img, 190, 420, 90, 105),
@@ -37,6 +34,4 @@ function initSprites(img){
         new Sprite(img, 760, 420, 90, 105),
         new Sprite(img, 855, 420, 90, 105)
     ];
-    backgroundSprite = new Sprite(img, 23, 850, 917, 529);
-    rupee = new Sprite(img, 305, 17, 40, 77);
 }

@@ -13,6 +13,10 @@ body .container {
   width: 80%;
   height: 600px;
 }
+html .container .selectors .hidden,
+body .container .selectors .hidden {
+  display: none;
+}
 html .container .scoreCard,
 body .container .scoreCard {
   width: 100%;
@@ -30,8 +34,16 @@ body .container .scoreCard .left .playerCol {
   width: 100%;
   height: 100%;
 }
-html .container .scoreCard .left .playerCol .playerLabel,
-body .container .scoreCard .left .playerCol .playerLabel {
+html .container .scoreCard .left .playerCol .playerMain,
+body .container .scoreCard .left .playerCol .playerMain {
+  display: flex;
+  flex-direction: column;
+}
+html .container .scoreCard .left .playerCol .playerMain .playerLabel,
+body .container .scoreCard .left .playerCol .playerMain .playerLabel {
+  margin: 3px 0;
+  display: flex;
+  justify-content: space-between;
   width: 100px;
 }
 html .container .scoreCard .right,
@@ -45,7 +57,17 @@ body .container .scoreCard .right .column {
   text-align: center;
   padding: 5px;
 }
+html .container .scoreCard .right .column .scoreBox,
+body .container .scoreCard .right .column .scoreBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3px 0;
+}
 html .container .scoreCard .right .column input,
 body .container .scoreCard .right .column input {
   width: 40px;
+}
+.yards {
+  color: #00abff;
 }

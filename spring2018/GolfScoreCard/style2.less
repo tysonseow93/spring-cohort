@@ -13,6 +13,9 @@ html, body{
     height: 600px;
     .selectors{
 
+      .hidden{
+        display: none;
+      }
     }
     .scoreCard{
       width: 100%;
@@ -31,9 +34,18 @@ html, body{
           .playerHeader{
 
           }
-          .playerLabel{
-            width: 100px;
+          .playerMain {
 
+            display: flex;
+            flex-direction: column;
+
+            .playerLabel {
+              margin: 3px 0;
+              display: flex;
+              justify-content: space-between;
+              width: 100px;
+
+            }
           }
         }
       }
@@ -45,6 +57,12 @@ html, body{
           border: 1px solid black;
           text-align: center;
           padding: 5px;
+          .scoreBox{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 3px 0;
+          }
           input{
             width: 40px;
           }
@@ -52,4 +70,7 @@ html, body{
       }
     }
   }
+}
+.yards{
+  color: #00abff;
 }

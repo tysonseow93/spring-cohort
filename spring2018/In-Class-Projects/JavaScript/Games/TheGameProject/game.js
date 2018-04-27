@@ -9,6 +9,7 @@ var frames = 0;
 var myHero;
 var myHeroBlink;
 var myHeroWalk;
+let myWallet;
 var currentState;
 
 var states = {
@@ -30,7 +31,13 @@ function main() {
 
     myHeroWalk = new Hero(300, 90);
 
+    myWallet = new Wallet();
+
     loadGraphics();
+
+    //currentState = states.Game;
+
+    levelStart(0);
 
 }
 
@@ -185,13 +192,69 @@ function Hero(x, y) {
 
 }
 
+function Wallet() {
+    this.collection = [];
+    this.add = function(gemX, gemY) {
+        this.collection.push(new RupeeGem(gemX,gemY));
+    };
+
+    this.update = function () {
+        for(let g = 0; g < this.collection.length; g++){
+            let loopedGem = this.collection[g];
+
+            let gTop = loopedGem.y;
+            let gLeft = loopedGem.x;
+            let gRight = loopedGem.x + loopedGem.width;
+            let gBottom = loopedGem.y + loopedGem.height;
+
+            let heroTop = myHero.y;
+            let heroLeft = myHero.x;
+            let heroRight = myHero.x + myHero.width;
+            let heroBottom = myHero.y + myHero.height;
+
+            if((heroBottom >= gTop && heroTop <= gBottom) && (heroRight >= gLeft && heroLeft <= gRight)){
+                console.log('hit detected');
+                this.collection.splice(g, 1);
+            }
+
+
+        }
+    };
+
+    this.draw = function() {
+        for(let i = 0; i < this.collection.length; i++){
+            let theGem = this.collection[i];
+            theGem.draw();
+        }
+    }
+
+}
+
+function RupeeGem(rupeeX, rupeeY) {
+    this.x = rupeeX;
+    this.y = rupeeY;
+    this.width = 40;
+    this.height = 77;
+    this.draw = function () {
+        rupee.draw(renderingContext, this.x, this.y);
+    };
+}
+
+function levelStart(levelNum) {
+    let gemCount = setup.levels[levelNum].gems.length;
+
+    for(let i = 0; i < gemCount; i++){
+        myWallet.add(setup.levels[levelNum].gems[i].x, setup.levels[levelNum].gems[i].y);
+    }
+}
+
 function loadGraphics() {
     let img = new Image();
     img.src = "images/link.png";
 
     img.onload = function () {
         initSprites(img);
-        renderingContext.fillStyle = blueFill;
+        // renderingContext.fillStyle = blueFill;
 
         gameLoop();
     };
@@ -210,14 +273,15 @@ function update() {
     myHero.update();
     myHeroBlink.update();
     myHeroWalk.update();
+    myWallet.update();
 }
 
 function render() {
     // draw stuff constantly based on status
     renderingContext.fillRect( 0, 0, width, height);
-    myHeroWalk.drawWalk(renderingContext, 0, 0);
+    backgroundSprite.draw(renderingContext,0,0);
+    myWallet.draw(renderingContext);
+   // myHeroWalk.drawWalk(renderingContext, 0, 0);
     myHero.drawWalk(renderingContext);
-    myHeroBlink.drawBlink(renderingContext);
-    myHeroWalk.drawWalk(renderingContext);
-
+   // myHeroBlink.drawBlink(renderingContext);
 }

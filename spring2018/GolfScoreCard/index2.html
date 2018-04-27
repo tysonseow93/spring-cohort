@@ -22,6 +22,11 @@
             <select class="teeDropdown" onchange="setTee(this.value)">
                 <option>Select a Difficulty</option>
             </select>
+            <button onclick="addNewDifficulty()">Add Difficulty</button>
+            <select class="selectNewDifficulty hidden" onchange="addNewDifficulty(this.value)">
+                <option>Select a Difficulty</option>
+            </select>
+            <button class="selectNewDifficultyBtn hidden">Add</button>
         </div>
 
         <div class="scoreCard">
@@ -30,6 +35,7 @@
             <div class="right"></div>
 
         </div>
+        <button class="finishGame">Finish Game</button>
     </div>
 </body>
 </html>
