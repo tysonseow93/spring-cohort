@@ -16,13 +16,13 @@
     <div class="container">
 
         <div class="selectors">
-            <select class="coursesDropdown" onchange="getCourse(this.value)">
+            <select class="coursesDropdown selector" onchange="getCourse(this.value)">
                 <option>Select a course</option>
             </select>
-            <select class="teeDropdown" onchange="setTee(this.value)">
+            <select class="teeDropdown selector" onchange="setTee(this.value)">
                 <option>Select a Difficulty</option>
             </select>
-            <button onclick="addNewDifficulty()">Add Difficulty</button>
+            <button class="btn" onclick="showNewDif()">Add Difficulty</button>
             <select class="selectNewDifficulty hidden" onchange="addNewDifficulty(this.value)">
                 <option>Select a Difficulty</option>
             </select>
@@ -35,7 +35,9 @@
             <div class="right"></div>
 
         </div>
-        <button class="finishGame">Finish Game</button>
+        <div>
+            <button class="finishGame btn">Finish Game</button>
+        </div>
     </div>
 </body>
 </html>

@@ -57,77 +57,70 @@ function getCourse(courseId) {
 
 }
 
+function showNewDif() {
+    $('.selectNewDifficulty').show();
+}
 
+function appendNewDifTotals(totalYardsIn, totalParIn, totalHCPIn, totalYardsOut, totalParOut, totalHCPOut) {
+    $('#yardsIn').after('<div>'+ totalYardsIn +'</div>');
+    $('#yardsOut').after('<div>'+ totalYardsOut +'</div>');
+    $('#yardsTot').after('<div>'+ (totalYardsIn + totalYardsOut) +'</div>');
+    $('#parIn').after('<div>'+ totalParIn +'</div>');
+    $('#parOut').after('<div>'+ totalParOut +'</div>');
+    $('#parTot').after('<div>'+ (totalParIn + totalParOut) +'</div>');
+    $('#hcpIn').after('<div>'+ totalHCPIn +'</div>');
+    $('#hcpOut').after('<div>'+ totalHCPOut +'</div>');
+    $('#hcpTot').after('<div>'+ (totalHCPIn + totalHCPOut) +'</div>');
+}
 
 function addNewDifficulty(teeIndex) {
     let mycourse = selcourse.data.holes;
-    $('.selectNewDifficulty').show();
 
     let holeOneTees = selcourse.data.holes[0].teeBoxes;
 
 
     $('#rowTitleYards').after('<div class="rowTitle">'+ holeOneTees[teeIndex].teeType + 'Yards' + '</div>');
+    $('#rowTitlePar').after('<div class="rowTitle">'+ holeOneTees[teeIndex].teeType + 'Par' + '</div>');
+    $('#rowTitleHCP').after('<div class="rowTitle">'+ holeOneTees[teeIndex].teeType + 'HCP' + '</div>');
 
     for(let i = 0; i < mycourse.length; i++){
-        $('#yards'+i).after('<div id="yards'+ i +'" class="yards">'+ mycourse[i].teeBoxes[teeIndex].yards +'</div>');
-    }
-    for(let i = 0; i < mycourse.length; i++) {
 
-        if (i <= 8) {
-            totalYardsIn += Number(mycourse[i].teeBoxes[teeIndex].yards);
-            totalParIn += Number(mycourse[i].teeBoxes[teeIndex].par);
-            totalHCPIn += Number(mycourse[i].teeBoxes[teeIndex].hcp);
-        }
-        if (i < mycourse.length && i >= 9) {
-            totalYardsOut += Number(mycourse[i].teeBoxes[teeIndex].yards);
-            totalParOut += Number(mycourse[i].teeBoxes[teeIndex].par);
-            totalHCPOut += Number(mycourse[i].teeBoxes[teeIndex].hcp);
-        }
+        $('#yards'+i).after('<div class="yards">'+ mycourse[i].teeBoxes[teeIndex].yards +'</div>');
+        $('#par'+i).after('<div class="par">'+ mycourse[i].teeBoxes[teeIndex].par +'</div>');
+        $('#hcp'+i).after('<div class="hcp">'+ mycourse[i].teeBoxes[teeIndex].hcp +'</div>');
+
     }
-    $('#yardsIn').after('<div>'+ totalYardsIn +'</div>');
-    $('#yardsOut').after('<div>'+ totalYardsOut +'</div>');
-    $('#yardsTot').after('<div>'+ (totalYardsIn + totalYardsOut) +'</div>');
+
+    addUpTotals(mycourse, teeIndex);
+    appendNewDifTotals(totalYardsIn, totalParIn, totalHCPIn, totalYardsOut, totalParOut, totalHCPOut);
+    zeroTotals();
 
 
 }
 
-
 function setTee(teeIndex) {
     let mycourse = selcourse.data.holes;
     let holeOneTees = selcourse.data.holes[0].teeBoxes;
-
     clearLeftnRight();
     appendRowTitles(holeOneTees ,teeIndex);
 
-
+    addUpTotals(mycourse, teeIndex);
 
     for(let i = 0; i < mycourse.length; i++){
-
-        if(i <= 8){
-            totalYardsIn += Number(mycourse[i].teeBoxes[teeIndex].yards);
-            totalParIn += Number(mycourse[i].teeBoxes[teeIndex].par);
-            totalHCPIn += Number(mycourse[i].teeBoxes[teeIndex].hcp);
-        }
-        if(i < mycourse.length && i >= 9){
-            totalYardsOut += Number(mycourse[i].teeBoxes[teeIndex].yards);
-            totalParOut += Number(mycourse[i].teeBoxes[teeIndex].par);
-            totalHCPOut += Number(mycourse[i].teeBoxes[teeIndex].hcp);
-        }
-
         $('.right').append(
             '<div class="column" id="c'+ i +'">'+
             '<div class="cheader">' +(i+1) +'</div>'+
             '<div id="yards'+ i +'" class="yards">'+ mycourse[i].teeBoxes[teeIndex].yards +'</div>'+
-            '<div class="par">'+ mycourse[i].teeBoxes[teeIndex].par +'</div>'+
-            '<div class="hcp">'+ mycourse[i].teeBoxes[teeIndex].hcp +'</div>'+
+            '<div id="par'+ i +'" class="par">'+ mycourse[i].teeBoxes[teeIndex].par +'</div>'+
+            '<div id="hcp'+ i +'" class="hcp">'+ mycourse[i].teeBoxes[teeIndex].hcp +'</div>'+
             '</div>');
     }
-
     totalsIn(totalYardsIn, totalParIn, totalHCPIn);
     totalOut(totalYardsOut, totalParOut, totalHCPOut);
     totalTot(totalYardsIn, totalParIn, totalHCPIn, totalYardsOut, totalParOut, totalHCPOut);
     playerHeader();
     buildCard();
+    zeroTotals();
 }
 
 function clearLeftnRight() {
@@ -149,10 +142,36 @@ function appendRowTitles(holeOneTees, teeIndex){
         '<div class="column">'+
         '<div id="rowTitleHoles" class="rowTitle">' + 'Hole' + '</div>'+
         '<div id="rowTitleYards" class="rowTitle">'+ holeOneTees[teeIndex].teeType + 'Yards' + '</div>'+
-        '<div id="rowTitlePar" class="rowTitle">'+ 'Par' + '</div>'+
-        '<div id="rowTitleHCP" class="rowTitle">'+ 'HCP' + '</div>'+
+        '<div id="rowTitlePar" class="rowTitle">'+ holeOneTees[teeIndex].teeType + 'Par' + '</div>'+
+        '<div id="rowTitleHCP" class="rowTitle">'+ holeOneTees[teeIndex].teeType + 'HCP' + '</div>'+
         '</div>'
     );
+}
+
+//function for totaling IN OUT TOT and appending them
+
+function addUpTotals(mycourse, teeIndex) {
+    for(let i = 0; i < mycourse.length; i++) {
+        if (i <= 8) {
+            totalYardsIn += Number(mycourse[i].teeBoxes[teeIndex].yards);
+            totalParIn += Number(mycourse[i].teeBoxes[teeIndex].par);
+            totalHCPIn += Number(mycourse[i].teeBoxes[teeIndex].hcp);
+        }
+        if (i < mycourse.length && i >= 9) {
+            totalYardsOut += Number(mycourse[i].teeBoxes[teeIndex].yards);
+            totalParOut += Number(mycourse[i].teeBoxes[teeIndex].par);
+            totalHCPOut += Number(mycourse[i].teeBoxes[teeIndex].hcp);
+        }
+    }
+}
+
+function zeroTotals() {
+    totalYardsIn = 0;
+    totalYardsOut = 0;
+    totalParIn = 0;
+    totalParOut = 0;
+    totalHCPIn = 0;
+    totalHCPOut = 0;
 }
 
 function totalsIn(totalYardsIn, totalParIn, totalHCPIn) {
@@ -160,8 +179,8 @@ function totalsIn(totalYardsIn, totalParIn, totalHCPIn) {
         '<div class="column" id="totalIn">'+
         '<div class="totalsIN">IN</div>'+
         '<div id="yardsIn">'+ totalYardsIn +'</div>'+
-        '<div class="parIn">'+ totalParIn +'</div>'+
-        '<div class="hcpIn">'+ totalHCPIn +'</div>'+
+        '<div id="parIn">'+ totalParIn +'</div>'+
+        '<div id="hcpIn">'+ totalHCPIn +'</div>'+
         '</div>'
     );
 }
@@ -171,8 +190,8 @@ function totalOut(totalYardsOut, totalParOut, totalHCPOut) {
         '<div class="column" id="totalOut">'+
         '<div class="totals">OUT</div>'+
         '<div id="yardsOut">'+ totalYardsOut +'</div>'+
-        '<div class="parOut">'+ totalParOut +'</div>'+
-        '<div class="hcpOut">'+ totalHCPOut +'</div>'+
+        '<div id="parOut">'+ totalParOut +'</div>'+
+        '<div id="hcpOut">'+ totalHCPOut +'</div>'+
         '</div>'
     );
 }
@@ -182,18 +201,21 @@ function totalTot(totalYardsIn, totalParIn, totalHCPIn, totalYardsOut, totalParO
         '<div class="column" id="totalScore">'+
         '<div class="totalsTot">TOT</div>'+
         '<div id="yardsTot">'+ (totalYardsIn + totalYardsOut) +'</div>'+
-        '<div class="parTot">'+ (totalParIn + totalParOut) +'</div>'+
-        '<div class="hcpTot">'+ (totalHCPIn + totalHCPOut) +'</div>'+
+        '<div id="parTot">'+ (totalParIn + totalParOut) +'</div>'+
+        '<div id="hcpTot">'+ (totalHCPIn + totalHCPOut) +'</div>'+
         '</div>'
     );
 }
+
+//function for totaling IN OUT TOT and appending them
+
 
 function buildCard() {
 
     for(let p = 1; p <= numplayers; p++){
         $('.playerMain').append(
             '<div id="playerRow'+ p +'" class="playerLabel player'+ p +'">' +
-            '<span contenteditable="true">Player '+ p +'</span>' +
+            '<span class="playersName" contenteditable="true">Player '+ p +'</span>' +
             '<span onclick="removePlayer(this)" class="fa fa-trash player'+ p +'"></span>' +
             '</div>');
         $('#totalIn').append('<div class="scoreBox">'+'<div id="player'+ p +'scoreIn"></div>'+'</div>');
@@ -235,7 +257,7 @@ $(document).ready(function () {
 
 function finishGame() {
     // add a button that will display game total info totaling players scores etc.
-
+    
 }
 
 function removePlayer(e){

@@ -1,16 +1,30 @@
 html,
 body {
+  margin: 0;
+  padding: 0;
   width: 100%;
   height: auto;
+  background-image: url("Jody-Jackson-Home-Picture.jpg");
+  background-size: auto;
+  background-position: center;
+}
+html .btn,
+body .btn {
+  opacity: 0.65;
+}
+html .selector,
+body .selector {
+  opacity: 0.65;
 }
 html .container,
 body .container {
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   flex-direction: column;
-  width: 80%;
+  width: 100%;
   height: 600px;
 }
 html .container .selectors .hidden,
@@ -21,30 +35,44 @@ html .container .scoreCard,
 body .container .scoreCard {
   width: 100%;
   display: flex;
+  margin-left: 20px;
+  padding: 5px;
 }
 html .container .scoreCard .left,
 body .container .scoreCard .left {
-  width: 100px;
+  width: 150px;
 }
 html .container .scoreCard .left .playerCol,
 body .container .scoreCard .left .playerCol {
+  background: white;
+  opacity: 0.65;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   width: 100%;
   height: 100%;
 }
+html .container .scoreCard .left .playerCol .playerHeader,
+body .container .scoreCard .left .playerCol .playerHeader {
+  text-align: center;
+}
 html .container .scoreCard .left .playerCol .playerMain,
 body .container .scoreCard .left .playerCol .playerMain {
+  width: 100%;
   display: flex;
   flex-direction: column;
 }
 html .container .scoreCard .left .playerCol .playerMain .playerLabel,
 body .container .scoreCard .left .playerCol .playerMain .playerLabel {
+  box-sizing: border-box;
+  width: 150px;
   margin: 3px 0;
   display: flex;
   justify-content: space-between;
-  width: 100px;
+}
+html .container .scoreCard .left .playerCol .playerMain .playerLabel .fa-trash,
+body .container .scoreCard .left .playerCol .playerMain .playerLabel .fa-trash {
+  margin-right: 5px;
 }
 html .container .scoreCard .right,
 body .container .scoreCard .right {
@@ -55,14 +83,16 @@ html .container .scoreCard .right .column,
 body .container .scoreCard .right .column {
   border: 1px solid black;
   text-align: center;
-  padding: 5px;
+  padding: 3px;
+  background: white;
+  opacity: 0.65;
 }
 html .container .scoreCard .right .column .scoreBox,
 body .container .scoreCard .right .column .scoreBox {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 3px 0;
+  margin: 5px 0;
 }
 html .container .scoreCard .right .column input,
 body .container .scoreCard .right .column input {
