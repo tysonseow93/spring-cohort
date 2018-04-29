@@ -259,7 +259,6 @@ $(document).ready(function () {
 });
 
 function finishGame() {
-    // add a button that will display game total info totaling players scores etc.
     //add a modal to display the player end of game scores
     //check to make sure all inputs fields have a number value
     //add each players totals up subtract par
