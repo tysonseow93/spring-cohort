@@ -33,7 +33,10 @@ function loadDoc() {
 
 function getCourse(courseId) {
     $('.teeDropdown').html("");
+    $('.selectNewDifficulty').html("");
+
     $('.teeDropdown').append('<option>Select a Difficulty</option>');
+    $('.selectNewDifficulty').append('<option>Select a Difficulty</option>');
     console.log(courseId);
     let xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function () {
@@ -257,10 +260,15 @@ $(document).ready(function () {
 
 function finishGame() {
     // add a button that will display game total info totaling players scores etc.
-    
+    //add a modal to display the player end of game scores
+    //check to make sure all inputs fields have a number value
+    //add each players totals up subtract par
+    //display each players score and a message if they did well or not
+    //add an option to apply HCP to the players score
 }
 
 function removePlayer(e){
     let playerToRemove = e.classList[3];
     $('.'+playerToRemove).remove();
+
 }

@@ -13,7 +13,7 @@
     <script defer src="action2.js"></script>
 </head>
 <body>
-    <div class="container">
+    <div class="main-container">
 
         <div class="selectors">
             <select class="coursesDropdown selector" onchange="getCourse(this.value)">
@@ -23,7 +23,7 @@
                 <option>Select a Difficulty</option>
             </select>
             <button class="btn" onclick="showNewDif()">Add Difficulty</button>
-            <select class="selectNewDifficulty hidden" onchange="addNewDifficulty(this.value)">
+            <select class="selectNewDifficulty hidden selector" onchange="addNewDifficulty(this.value)">
                 <option>Select a Difficulty</option>
             </select>
             <button class="selectNewDifficultyBtn hidden">Add</button>
@@ -36,7 +36,7 @@
 
         </div>
         <div>
-            <button class="finishGame btn">Finish Game</button>
+            <button class="finishGame btn" onclick="finishGame()">Finish Game</button>
         </div>
     </div>
 </body>
