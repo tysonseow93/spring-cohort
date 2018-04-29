@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/firstScoreCard/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/To-Do-List/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/link-game" beforeDir="false" afterPath="$PROJECT_DIR$/link-game" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/Jody-Jackson-Home-Picture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/golfScoreCardImages/Jody-Jackson-Home-Picture.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/action.js" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/firstScoreCard/action.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/action2.js" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/action.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/free-golf-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/golfScoreCardImages/free-golf-background.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/holes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/firstScoreCard/holes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/firstScoreCard/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.less" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/firstScoreCard/style.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/GolfScoreCard/style2.less" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/GolfScoreCard/style.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,7 +19,7 @@
       <split-first>
         <leaf>
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index.html">
+            <entry file="file://$PROJECT_DIR$/spring2018/index.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="30">
                   <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
@@ -185,12 +172,6 @@
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mtech" type="462c0819:PsiDirectoryNode" />
-              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="GolfScoreCard" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -213,11 +194,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring2018" />
       <recent name="$PROJECT_DIR$/spring2018/To-Do-List" />
       <recent name="$PROJECT_DIR$/spring2018/GolfScoreCard/golfScoreCardImages" />
       <recent name="$PROJECT_DIR$/spring2018/GolfScoreCard/firstScoreCard" />
       <recent name="$PROJECT_DIR$/spring2018/GolfScoreCard" />
-      <recent name="$PROJECT_DIR$/link-game" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/images" />
@@ -263,12 +244,12 @@
       <workItem from="1523718960121" duration="118000" />
       <workItem from="1523719267502" duration="26624000" />
       <workItem from="1523929042085" duration="78393000" />
-      <workItem from="1524670915602" duration="31422000" />
+      <workItem from="1524670915602" duration="31600000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586152000" />
+    <option name="totallyTimeSpent" value="586330000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,7 +263,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20295984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20295984" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31678253" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51021844" side_tool="true" weight="0.32636815" />
@@ -290,7 +271,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" visible="true" weight="0.35272726" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" visible="true" weight="0.35272726" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -650,7 +631,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
