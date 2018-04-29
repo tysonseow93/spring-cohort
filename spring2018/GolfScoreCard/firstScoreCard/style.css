@@ -1,0 +1,33 @@
+html,
+body {
+  width: 100%;
+  height: 650px;
+}
+.container {
+  height: 100%;
+  margin: 0 auto;
+}
+.container .cardMain {
+  width: 100%;
+}
+.container .cardMain .scoreCardHeader {
+  display: flex;
+}
+.container .cardMain .left {
+  display: flex;
+  flex-direction: column;
+  background: darkgray;
+}
+.container .cardMain .right {
+  display: flex;
+}
+.container .cardMain .right .cHeader {
+  text-align: center;
+}
+.container .cardMain .right .cHeader .column {
+  border: 1px solid #dadfea;
+  padding: 5px;
+}
+.container .cardMain .right .cHeader .column .holeInput {
+  width: 30px;
+}
