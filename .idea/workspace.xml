@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/link-game" beforeDir="false" afterPath="$PROJECT_DIR$/link-game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring2018/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,36 +24,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mtech" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Greeter.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.ts">
+      <file leaf-file-name="search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Quizes/Quiz2/review-quiz-2/search/search.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="action.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="64" column="57" lean-forward="true" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
+            <state relative-caret-position="45">
+              <caret line="3" column="6" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -59,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="TypeScript File" />
       </list>
@@ -73,18 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Sorting/index.html" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Sorting/test.html" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Sorting/test.js" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Sorting/action.js" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/AJAX/AJAXday1.js" />
-        <option value="$PROJECT_DIR$/spring2018/To-Do-List/todo.js" />
-        <option value="$PROJECT_DIR$/link-game/game.js" />
-        <option value="$PROJECT_DIR$/spring2018/GolfScoreCard/holes.txt" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/stackTests/stack.js" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz2/review-quiz-2/first-duplicate/firstDuplicate.js" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Quiz2/review-quiz-2/search/search.js" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Quiz2/review-quiz-2/questions.txt" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Quiz2/review-quiz-2/computer/computer.js" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Quiz2/review-quiz-2/first-duplicate/firstDuplicate.js" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/Quiz2/review-quiz-2/sorting/sort.js" />
@@ -120,10 +92,22 @@
         <option value="$PROJECT_DIR$/spring2018/GolfScoreCard/action.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/Greeter/Greeter.ts" />
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/index.html" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/style.css" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.js" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 3/Property Management App/House.ts" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/houseArray.ts" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/index.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/House.ts" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.ts" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/index.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/style.css" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/app.ts" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/Classes and Stuff/indew.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/Classes and Stuff/style.css" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/Classes and Stuff/index.html" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/Classes and Stuff/classes.ts" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 5/magazine.ts" />
+        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 5/app.ts" />
       </list>
     </option>
   </component>
@@ -177,7 +161,34 @@
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
               <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
+              <item name="Quizes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Quizes" type="462c0819:PsiDirectoryNode" />
+              <item name="Quiz2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Quizes" type="462c0819:PsiDirectoryNode" />
+              <item name="Quiz2" type="462c0819:PsiDirectoryNode" />
+              <item name="review-quiz-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="Quizes" type="462c0819:PsiDirectoryNode" />
+              <item name="Quiz2" type="462c0819:PsiDirectoryNode" />
+              <item name="review-quiz-2" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
@@ -185,16 +196,6 @@
               <item name="spring2018" type="462c0819:PsiDirectoryNode" />
               <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="TypeScript Day 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mtech" type="462c0819:PsiDirectoryNode" />
-              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
-              <item name="In-Class-Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="TypeScript Day 2" type="462c0819:PsiDirectoryNode" />
-              <item name="action.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -217,23 +218,23 @@
     <property name="node.js.selected.package.prettier" value="" />
     <property name="node.js.selected.package.tslint" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/spring2018" />
-      <recent name="$PROJECT_DIR$/spring2018/To-Do-List" />
-      <recent name="$PROJECT_DIR$/spring2018/GolfScoreCard/golfScoreCardImages" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/images" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/Random Gems" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz2" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/LinkedList" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/stackTests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2" />
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/spring2018" />
+      <recent name="$PROJECT_DIR$/spring2018/To-Do-List" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,11 +274,15 @@
       <workItem from="1523719267502" duration="26624000" />
       <workItem from="1523929042085" duration="78393000" />
       <workItem from="1524670915602" duration="42585000" />
+      <workItem from="1525268593442" duration="18053000" />
+      <workItem from="1525880573379" duration="2000" />
+      <workItem from="1525881189190" duration="8000" />
+      <workItem from="1526656593005" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="597315000" />
+    <option name="totallyTimeSpent" value="615429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -292,52 +297,48 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20295984" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.20295984" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31678253" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51021844" side_tool="true" weight="0.32636815" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3272727" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" visible="true" weight="0.35272726" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" weight="0.35272726" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Favorites" order="2" sideWeight="0.50060606" side_tool="true" weight="0.20295984" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3272727" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.326713" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20295984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31678253" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" visible="true" weight="0.35272726" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51021844" side_tool="true" weight="0.32636815" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.48978153" weight="0.35272726" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51021844" side_tool="true" weight="0.32636815" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3272727" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.js" />
-      </list>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -350,26 +351,23 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 5/app.ts</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Sorting/action.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Quizes/Quiz2/review-quiz-2/questions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/DailyPractices/day12.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Ajax-n-JSON practice/action.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -389,13 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
           <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Quizes/Quiz2/review-quiz-2/search/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -504,24 +495,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/link-game/link.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/link-game/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/link-game/file.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/link-game/game.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/link-game/sprite.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/Random Gems/sprite.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -530,21 +509,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/Random Gems/gems.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/images/gems_sprites.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/Random Gems/rupee.gif">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/Random Gems/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -557,9 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -609,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-          <folding>
-            <element signature="e#1373#1380#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,40 +600,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.ts">
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.js" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/houseArray.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/index.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/House.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/index.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/app.js" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/app.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/Classes and Stuff/index.html" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/Classes and Stuff/classes.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 5/magazine.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 5/app.ts" />
+    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Quizes/Quiz2/review-quiz-2/search/search.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="64" column="57" lean-forward="true" selection-start-line="64" selection-start-column="57" selection-end-line="64" selection-end-column="57" />
+        <state relative-caret-position="45">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>

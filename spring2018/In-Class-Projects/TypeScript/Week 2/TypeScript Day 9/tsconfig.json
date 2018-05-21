@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "sourceMap": true,
+    "outDir": "dist",
+    "allowJs": true,
+    "experimentalDecorators": true
+  },
+  "files": [
+    "main.ts"
+  ],
+  "include": [
+    "helper",
+    "helper/e2e"
+  ],
+  "exclude": [
+  ]
+}
