@@ -1,0 +1,27 @@
+<div class="my-content">
+  <mat-toolbar>
+    <mat-form-field class="search-filter">
+      <input matInput placeholder="Filter Characters..." [formControl]="characterFC">
+    </mat-form-field>
+  </mat-toolbar>
+
+  <mat-list-item>
+    <button color="accent" mat-raised-button (click)="hideDetailsFn()">
+      <span>{{hideDetails ? 'Show' : 'Hide'}} Details</span>
+    </button>
+  </mat-list-item>
+
+  <mat-list>
+    <mat-list-item *ngFor="let character of filteredCharacters" class="character" (click)="setActiveCharacter(character)">
+      <img mat-list-avatar [src]="character.avatar" [title]="character.name | lowercase"/>
+      <h3 mat-line>{{character.name | uppercase}}</h3>
+      <div mat-line *ngIf="!hideDetails" class="height">
+        <span>{{character.gender}}</span>
+        <span class="demo-2"> -- {{character.birth_year}}</span>
+      </div>
+    </mat-list-item>
+  </mat-list>
+
+  <!-- <pre>{{characters ? (characters[0] | json) : ''}}</pre> -->
+
+</div>

@@ -1,0 +1,20 @@
+<mat-toolbar color="primary">
+  <button mat-button>
+    <span class="menu-item" [routerLink]="['/home']">{{title}}</span>
+  </button>
+  <button mat-button>
+    <span class="menu-item" [routerLink]="['/home']">Home</span>
+  </button>
+  <button mat-button>
+    <span class="menu-item" [routerLink]="['/character-list']">Characters</span>
+  </button>
+</mat-toolbar>
+
+<mat-sidenav-container class="sidenav-container" autosize>
+
+<router-outlet></router-outlet>
+
+</mat-sidenav-container>
+
+
+

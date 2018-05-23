@@ -1,0 +1,15 @@
+Service Injection TODO:
+
+- Create a ‘character-detail’ component
+    - place that component within ‘mat-sidenav-content’ inside the app.component.html file, 
+        similar to how the `character-list` component is placed inside the `mat-sidenav` element.
+
+- Inject the CharacterService into your `character-detail` component
+
+- In your `character-detail` component.ts file, create a variable of type `Character`
+
+- In the `ngOnInit` of your `character-detail` component, subscribe to the `activeCharacter` variable from the `CharacterService` and set the earlier created variable equal to the returned value.
+
+- Display character details inside the `character-detail` .html file. 
+
+- The `force-strength` component should be nested in the `character-detail` .html file.

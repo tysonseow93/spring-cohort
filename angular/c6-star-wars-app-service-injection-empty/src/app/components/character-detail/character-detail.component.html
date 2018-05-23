@@ -1,0 +1,8 @@
+<mat-card *ngIf="character" class="vacation-detail-container">
+  <h2>{{character.name}}</h2>
+  <img [src]="character.img">
+  <force-strength [forceStrength]="character.force"></force-strength>
+  <p>Height: {{character.height}}</p>
+  <p>Eye color: {{character.eye_color}}</p>
+  <p>Birth Year: {{character.birth_year}}</p>
+</mat-card>

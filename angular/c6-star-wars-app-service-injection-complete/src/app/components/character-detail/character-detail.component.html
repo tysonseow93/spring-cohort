@@ -1,0 +1,8 @@
+<mat-card class="detail-container" *ngIf="activeCharacter">
+    <h2>{{activeCharacter.name}}</h2>
+    <img [src]="activeCharacter.img" style="max-width: 200px;">
+    <p>Hair Color: {{activeCharacter.hair_color}}</p>
+    <p>Skin Color: {{activeCharacter.skin_color}}</p>
+    <p>Mass: {{activeCharacter.mass}}</p>
+    <force-strength [forceStrength]="activeCharacter.force"></force-strength>  
+</mat-card>

@@ -1,0 +1,5 @@
+<div *ngFor="let giphy of giphyData">
+  <h2>Title: {{giphy.title}}</h2>
+  <img [src]="giphy.images.downsized_large.url">
+
+</div>
