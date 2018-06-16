@@ -1,0 +1,17 @@
+<mat-toolbar color="primary">
+    <button mat-button>
+        <span class="menu-item">Star Wars App</span>
+    </button>
+    <button mat-button [routerLink]="['/home']">
+        <span class="menu-item">Home</span>
+    </button>
+    <button mat-button [routerLink]="['/characters']">
+        <span class="menu-item">Characters</span>
+    </button>
+</mat-toolbar>
+
+<!-- <mat-sidenav-container class="sidenav-container" autosize> -->
+<!-- </mat-sidenav-container> -->
+<div>
+    <router-outlet></router-outlet>
+</div>

@@ -13,7 +13,7 @@
   </mat-list-item>
 
   <mat-list>
-    <mat-list-item *ngFor="let character of filteredCharacters" class="character" (click)="setActiveCharacter(character)">
+    <mat-list-item *ngFor="let character of filteredCharacters" class="character" [routerLink]="['/character', character.id]" (click)="setActiveCharacter(character)">
       <img mat-list-avatar [src]="character.avatar" [title]="character.name | lowercase"/>
       <h3 mat-line>{{character.name | uppercase}}</h3>
       <div mat-line *ngIf="!hideDetails" class="height">
@@ -23,13 +23,13 @@
     </mat-list-item>
   </mat-list>
 
-  <!-- <pre>{{characters ? (characters[0] | json) : ''}}</pre> -->
+   <!--<pre>{{characters ? (characters[0] | json) : ''}}</pre>-->
 
 
 
-  <mat-sidenav-content class="sidenav-content">
-  <character-detail></character-detail>
-  </mat-sidenav-content>
+  <!--<mat-sidenav-content class="sidenav-content">-->
+  <!--<character-detail></character-detail>-->
+  <!--</mat-sidenav-content>-->
 
 </div>
 </mat-sidenav>

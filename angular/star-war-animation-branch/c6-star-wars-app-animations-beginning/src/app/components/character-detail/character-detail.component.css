@@ -1,0 +1,20 @@
+.detail-container {
+    max-width: 60%;
+    min-width: 60%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.additional-detail-container {
+    width: 300px;
+    top: 200px;
+}
+
+p {
+    font-size: .75em;
+}
+
+/* mat-card {
+    background-color: #4054B2;
+    color: white;
+} */

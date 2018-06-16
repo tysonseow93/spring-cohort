@@ -14,6 +14,8 @@ import { CharacterDetailComponent } from './components/character-detail/characte
 import { ForceStrengthComponent } from './components/force-strength/force-strength.component';
 import { AppRoutingModule } from './/app-routing.module';
 import { HomeComponent } from './components/home/home.component';
+import { CharacterDetailGuard } from  './services/character-guards.service'
+
 
 @NgModule({
     declarations: [
@@ -33,7 +35,8 @@ import { HomeComponent } from './components/home/home.component';
         AppRoutingModule
     ],
     providers: [
-        CharacterService
+        CharacterService,
+        CharacterDetailGuard
     ],
     bootstrap: [AppComponent]
 })
