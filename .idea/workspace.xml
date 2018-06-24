@@ -2,68 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/services/character-guards.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/new-food-truck/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/new-food-truck/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/.idea/tour-of-heros.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/hero.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/heroes/heroes.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/heroes/heroes.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/heroes/heroes.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/heroes/heroes.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/app/mock-heroes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/tslint.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/angular/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/SWAPI" beforeDir="false" afterPath="$PROJECT_DIR$/angular/SWAPI" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/components/character-detail/character-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/components/character-detail/character-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/components/character-detail/character-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/components/character-detail/character-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/components/character-list/character-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/components/character-list/character-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/domains/character.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/domains/character.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/services/character.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app-service-injection-complete/src/app/services/character.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/giphy-app/src/app/services/giphy.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular/giphy-app/src/app/services/giphy.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/fads-app/fads" beforeDir="false" afterPath="$PROJECT_DIR$/angular/fads-app/fads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/tour-of-heros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/angular/tour-of-heros/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/toy-problems" beforeDir="false" afterPath="$PROJECT_DIR$/angular/toy-problems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/vacation-list-app-seed" beforeDir="false" afterPath="$PROJECT_DIR$/angular/vacation-list-app-seed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/vacay-app/vacation-list-app-seed" beforeDir="false" afterPath="$PROJECT_DIR$/angular/vacay-app/vacation-list-app-seed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bank-system-app" beforeDir="false" afterPath="$PROJECT_DIR$/bank-system-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/link-game" beforeDir="false" afterPath="$PROJECT_DIR$/link-game" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring2018/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,7 +40,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="162">
               <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
             </state>
           </provider>
@@ -198,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,11 +154,15 @@
               <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="angular" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,11 +241,13 @@
       <workItem from="1526656593005" duration="51000" />
       <workItem from="1528212959837" duration="130000" />
       <workItem from="1528301918882" duration="8000" />
+      <workItem from="1529190244030" duration="72000" />
+      <workItem from="1529330536865" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="615567000" />
+    <option name="totallyTimeSpent" value="615641000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,12 +264,12 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.20295984" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31678253" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51021844" side_tool="true" weight="0.32636815" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" weight="0.35272726" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" visible="true" weight="0.35272726" />
       <window_info id="Favorites" order="2" sideWeight="0.50060606" side_tool="true" weight="0.20295984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -645,7 +600,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="162">
           <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
         </state>
       </provider>
