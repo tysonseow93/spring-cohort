@@ -1,0 +1,15 @@
+form(action="/editUser" method="post")
+    label User ID
+        input( type="text" name="userID" id="userID" value=userID)
+    label Name
+        input(type="text" name="name" id="name" value=userName)
+    label E-mail
+        input( type="text" name="userEmail" id="userEmail" value=userEmail)
+    label Age
+        input( type="number" name="age" id="age" value=age)
+    label(hidden) ID
+        input(hidden type="number" name="id" id="id" value=id)
+    label(hidden) Timestamp
+        input(hidden type="text" name="timestamp" id="timestamp" value=timestamp)
+    input( type="submit")
+

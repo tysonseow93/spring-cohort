@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="angular/StarWarsApps/c6-star-wars-app-service-injection-complete/node_modules" />
+    <excludedPredefinedLibrary name="angular/StarWarsApps/c6-star-wars-app-service-injection-empty/node_modules" />
+    <excludedPredefinedLibrary name="angular/StarWarsApps/c6-star-wars-app/node_modules" />
+    <excludedPredefinedLibrary name="angular/StarWarsApps/star-war-animation-branch/c6-star-wars-app-animations-beginning/node_modules" />
+    <excludedPredefinedLibrary name="angular/StarWarsApps/star-wars-chars/node_modules" />
+    <excludedPredefinedLibrary name="angular/StarWarsApps/starwars-routing-adv-comp/c6-star-wars-app-routing-advanced-complete/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/SWAPI/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/create-new-practice/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/fads-app/angular-reactive-forms/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/fads-app/fads/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/food-trucks/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/giphy-app/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/vacation-list-app-seed/node_modules" />
+    <excludedPredefinedLibrary name="angular/in-class-angular/vacay-app/vacation-list-app-seed/node_modules" />
+  </component>
+</project>

@@ -22,7 +22,7 @@ body{
     align-items: center;
     width: 45%;
     height: 100%;
-    background-image: url("Portfolio/famousportraits8.jpg");
+    background-image: url("./famousportraits8.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 25%;

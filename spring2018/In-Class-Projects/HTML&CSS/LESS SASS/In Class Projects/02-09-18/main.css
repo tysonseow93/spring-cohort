@@ -1,4 +1,3 @@
-@import "challenges.css";
 html,
 body {
   height: 100%;
@@ -11,6 +10,15 @@ body {
   width: 70%;
   margin: 0 auto;
   border: 1px solid #f4f5f7;
+}
+.container div {
+  height: 100px;
+}
+.container div ul {
+  font-family: 'Alegreya', serif;
+}
+.container div ul li {
+  color: #00abff;
 }
 .header {
   display: flex;

@@ -3,13 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="ae48963f-ea1f-4b7d-95c6-f6380c32f0da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/SWAPI" beforeDir="false" afterPath="$PROJECT_DIR$/angular/SWAPI" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/c6-star-wars-app" beforeDir="false" afterPath="$PROJECT_DIR$/angular/c6-star-wars-app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/fads-app/fads" beforeDir="false" afterPath="$PROJECT_DIR$/angular/fads-app/fads" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/tour-of-heros/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/angular/tour-of-heros/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/.idea/angular.iml" beforeDir="false" afterPath="$PROJECT_DIR$/angular/.idea/angular.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/angular/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app" beforeDir="false" afterPath="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/game-review/vgr" beforeDir="false" afterPath="$PROJECT_DIR$/angular/game-review/vgr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/in-class-angular/SWAPI" beforeDir="false" afterPath="$PROJECT_DIR$/angular/in-class-angular/SWAPI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/in-class-angular/fads-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/angular/in-class-angular/fads-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/in-class-angular/fads-app/fads" beforeDir="false" afterPath="$PROJECT_DIR$/angular/in-class-angular/fads-app/fads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/in-class-angular/vacation-list-app-seed" beforeDir="false" afterPath="$PROJECT_DIR$/angular/in-class-angular/vacation-list-app-seed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/in-class-angular/vacay-app/vacation-list-app-seed" beforeDir="false" afterPath="$PROJECT_DIR$/angular/in-class-angular/vacay-app/vacation-list-app-seed" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/ionic/elite-schedule-app" beforeDir="false" afterPath="$PROJECT_DIR$/angular/ionic/elite-schedule-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/new-golf-app" beforeDir="false" afterPath="$PROJECT_DIR$/angular/new-golf-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular/toy-problems" beforeDir="false" afterPath="$PROJECT_DIR$/angular/toy-problems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/vacation-list-app-seed" beforeDir="false" afterPath="$PROJECT_DIR$/angular/vacation-list-app-seed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular/vacay-app/vacation-list-app-seed" beforeDir="false" afterPath="$PROJECT_DIR$/angular/vacay-app/vacation-list-app-seed" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bank-system-app" beforeDir="false" afterPath="$PROJECT_DIR$/bank-system-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/link-game" beforeDir="false" afterPath="$PROJECT_DIR$/link-game" afterDir="false" />
     </list>
@@ -32,16 +38,40 @@
         <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Quizes/Quiz2/review-quiz-2/search/search.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="6" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="6" />
+              <caret line="3" column="6" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular/in-class-angular/fads-app/fads/src/app/products/products.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="412">
+              <caret line="55" selection-end-line="55" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+            <state relative-caret-position="192">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <element signature="e#1946#1953#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="action.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/action.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="52" column="111" selection-start-line="52" selection-start-column="111" selection-end-line="52" selection-end-column="111" />
             </state>
           </provider>
         </entry>
@@ -98,7 +128,6 @@
         <option value="$PROJECT_DIR$/spring2018/GolfScoreCard/action2.js" />
         <option value="$PROJECT_DIR$/spring2018/GolfScoreCard/style2.less" />
         <option value="$PROJECT_DIR$/spring2018/GolfScoreCard/action.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/Greeter/Greeter.ts" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/style.css" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.js" />
@@ -116,6 +145,7 @@
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 4/Classes and Stuff/classes.ts" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 5/magazine.ts" />
         <option value="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 5/app.ts" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -131,8 +161,429 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/NodeJs/Project8/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/chatSample/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-10/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-12/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-13/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-14/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-5/mytodo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-7/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-9/expressapp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/NodeJs/node-day-9/recipesProject/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/Angular-AlbumStoreProductPage/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app-service-injection-complete/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app-service-injection-empty/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/StarWarsApps/star-war-animation-branch/c6-star-wars-app-animations-beginning/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/StarWarsApps/star-wars-chars/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/StarWarsApps/starwars-routing-adv-comp/c6-star-wars-app-routing-advanced-complete/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/game-review/vgr/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/group-project/game-review-group-project/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/SWAPI/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/create-new-practice/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/fads-app/angular-reactive-forms/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/fads-app/fads/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/food-trucks/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/giphy-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/vacation-list-app-seed/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/in-class-angular/vacay-app/vacation-list-app-seed/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/ionic/elite-schedule-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/ionic/name-of-project/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/new-golf-app/angular-golf-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/ng-golf-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/node_modules" />
+    <handled-path value="$PROJECT_DIR$/angular/toy-problems/node_modules" />
+    <handled-path value="$PROJECT_DIR$/bank-system-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/database/database-day-2/mongooseEx/node_modules" />
+    <handled-path value="$PROJECT_DIR$/database/database-day-2/myproject/node_modules" />
+    <handled-path value="$PROJECT_DIR$/database/database-day-4/node_modules" />
+    <handled-path value="$PROJECT_DIR$/npm/deployment-day-2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/npm/deployment-day-3/hello-world/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/React-QuizComponent/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/ReactJS_Day_2_Starter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/ReactJS_Day_3_Starter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/hello-world/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/my-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/mynewapp/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/reactTimerDay3Starter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/react/timer/node_modules" />
+    <handled-path value="$PROJECT_DIR$/security/node_modules" />
+    <handled-path value="$PROJECT_DIR$/testing/selenium-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/testing/testing-day-1/node_modules" />
+    <handled-path value="$PROJECT_DIR$/testing/testing-day-2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/testing/testing-day-3/node_modules" />
+  </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/NodeJs/Project8/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/chatSample/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-1/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-10/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-12/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-13/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-14/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-2/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-4/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-5/mytodo/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-7/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-9/expressapp/package.json" />
+      <path value="$PROJECT_DIR$/NodeJs/node-day-9/recipesProject/package.json" />
+      <path value="$PROJECT_DIR$/angular/Angular-AlbumStoreProductPage/package.json" />
+      <path value="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app-service-injection-complete/package.json" />
+      <path value="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app-service-injection-empty/package.json" />
+      <path value="$PROJECT_DIR$/angular/StarWarsApps/c6-star-wars-app/package.json" />
+      <path value="$PROJECT_DIR$/angular/StarWarsApps/star-war-animation-branch/c6-star-wars-app-animations-beginning/package.json" />
+      <path value="$PROJECT_DIR$/angular/StarWarsApps/star-wars-chars/package.json" />
+      <path value="$PROJECT_DIR$/angular/StarWarsApps/starwars-routing-adv-comp/c6-star-wars-app-routing-advanced-complete/package.json" />
+      <path value="$PROJECT_DIR$/angular/game-review/vgr/package.json" />
+      <path value="$PROJECT_DIR$/angular/group-project/game-review-group-project/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/SWAPI/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/create-new-practice/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/fads-app/angular-reactive-forms/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/fads-app/fads/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/food-trucks/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/giphy-app/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/vacation-list-app-seed/package.json" />
+      <path value="$PROJECT_DIR$/angular/in-class-angular/vacay-app/vacation-list-app-seed/package.json" />
+      <path value="$PROJECT_DIR$/angular/ionic/elite-schedule-app/package.json" />
+      <path value="$PROJECT_DIR$/angular/ionic/name-of-project/package.json" />
+      <path value="$PROJECT_DIR$/angular/new-golf-app/angular-golf-app/package.json" />
+      <path value="$PROJECT_DIR$/angular/ng-golf-app/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/animations/browser/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/animations/browser/testing/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/animations/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/a11y/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/accordion/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/bidi/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/coercion/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/collections/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/keycodes/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/layout/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/observers/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/overlay/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/platform/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/portal/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/scrolling/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/stepper/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/table/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/text-field/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/cdk/tree/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/autocomplete/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/badge/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/bottom-sheet/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/button-toggle/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/button/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/card/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/checkbox/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/chips/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/core/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/datepicker/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/dialog/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/divider/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/expansion/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/form-field/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/grid-list/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/icon/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/input/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/list/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/menu/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/paginator/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/progress-bar/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/progress-spinner/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/radio/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/select/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/sidenav/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/slide-toggle/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/slider/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/snack-bar/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/sort/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/stepper/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/table/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/tabs/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/toolbar/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/tooltip/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@angular/material/tree/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/app-types/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/app/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/app/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/auth-types/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/auth/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/database-types/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/database/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/database/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/firestore-types/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/firestore/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/firestore/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/functions-types/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/functions/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/functions/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/logger/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/messaging-types/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/messaging/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/messaging/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/polyfill/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/storage-types/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/storage/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/storage/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/util/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/util/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/@firebase/webchannel-wrapper/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/auth/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/database-deprecated/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/database/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/firebase-node/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/firestore/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/functions/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/angularfire2/storage/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/ascli/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/bytebuffer/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/colour/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/dom-storage/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/app/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/auth/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/database/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/firestore/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/functions/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/messaging/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/firebase/storage/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/abbrev/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/aproba/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/are-we-there-yet/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/chownr/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/console-control-strings/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/detect-libc/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/fs-minipass/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/gauge/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/has-unicode/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/ignore-walk/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/minipass/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/minizlib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/needle/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/node-pre-gyp/lib/util/nw-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/node-pre-gyp/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/nopt/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/npm-bundled/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/npm-packlist/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/npmlog/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/osenv/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/tar/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/tar/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/grpc/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/hammerjs/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/install/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/long/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/nan/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/nan/tools/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/optjs/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/promise-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/protobufjs/examples/protoify/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/protobufjs/examples/websocket/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/protobufjs/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/xmlhttprequest/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/angular/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/angular/tour-of-heros/angular-tour-of-heroes/package.json" />
+      <path value="$PROJECT_DIR$/angular/toy-problems/package.json" />
+      <path value="$PROJECT_DIR$/bank-system-app/package.json" />
+      <path value="$PROJECT_DIR$/database/database-day-2/mongooseEx/package.json" />
+      <path value="$PROJECT_DIR$/database/database-day-2/myproject/package.json" />
+      <path value="$PROJECT_DIR$/database/database-day-4/package.json" />
+      <path value="$PROJECT_DIR$/npm/deployment-day-2/package.json" />
+      <path value="$PROJECT_DIR$/npm/deployment-day-3/hello-world/package.json" />
+      <path value="$PROJECT_DIR$/react/React-QuizComponent/package.json" />
+      <path value="$PROJECT_DIR$/react/ReactJS_Day_2_Starter/package.json" />
+      <path value="$PROJECT_DIR$/react/ReactJS_Day_3_Starter/package.json" />
+      <path value="$PROJECT_DIR$/react/hello-world/package.json" />
+      <path value="$PROJECT_DIR$/react/my-app/package.json" />
+      <path value="$PROJECT_DIR$/react/mynewapp/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/@types/cheerio/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/@types/enzyme-adapter-react-16/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/@types/enzyme/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/@types/node/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/@types/react/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/boolbase/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/cheerio/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/css-select/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/css-what/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/csstype/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/discontinuous-range/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/enzyme-adapter-react-16/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/enzyme-adapter-utils/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/enzyme/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/es-abstract/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/es-to-primitive/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/fbjs/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/foreach/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/function.prototype.name/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/has-symbols/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-boolean-object/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-date-object/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-number-object/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-string/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-subset/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/is-symbol/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/lodash.flattendeep/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/moo/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/nearley/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/nomnom/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/nth-check/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/object-inspect/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/object-is/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/object.assign/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/object.entries/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/object.values/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/raf/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/railroad-diagrams/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/randexp/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/react-is/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/react-reconciler/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/react-test-renderer/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/rst-selector-parser/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/underscore/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/react/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/react/reactTimerDay3Starter/package.json" />
+      <path value="$PROJECT_DIR$/react/timer/package.json" />
+      <path value="$PROJECT_DIR$/security/package.json" />
+      <path value="$PROJECT_DIR$/spring2018/node_modules/@types/jquery/package.json" />
+      <path value="$PROJECT_DIR$/spring2018/node_modules/@types/underscore/package.json" />
+      <path value="$PROJECT_DIR$/testing/protractor/package.json" />
+      <path value="$PROJECT_DIR$/testing/selenium-master/package.json" />
+      <path value="$PROJECT_DIR$/testing/testing-day-1/package.json" />
+      <path value="$PROJECT_DIR$/testing/testing-day-2/package.json" />
+      <path value="$PROJECT_DIR$/testing/testing-day-3/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -157,7 +608,13 @@
             <path>
               <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
               <item name="mtech" type="462c0819:PsiDirectoryNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mtech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mtech" type="462c0819:PsiDirectoryNode" />
+              <item name="spring2018" type="462c0819:PsiDirectoryNode" />
+              <item name="GolfScoreCard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,6 +627,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value=";&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="excluded.www.directory" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
@@ -183,19 +641,19 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring2018/GolfScoreCard" />
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2" />
+      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/spring2018" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/images" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Games/TheGameProject/Random Gems" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/Quiz2" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/JavaScript/LinkedList" />
       <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/stackTests" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2" />
-      <recent name="$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/spring2018" />
-      <recent name="$PROJECT_DIR$/spring2018/To-Do-List" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,11 +701,17 @@
       <workItem from="1528301918882" duration="8000" />
       <workItem from="1529190244030" duration="72000" />
       <workItem from="1529330536865" duration="2000" />
+      <workItem from="1530116702858" duration="102000" />
+      <workItem from="1533563681522" duration="6000" />
+      <workItem from="1533652098216" duration="202000" />
+      <workItem from="1550801054325" duration="3000" />
+      <workItem from="1551643226021" duration="7000" />
+      <workItem from="1553827581712" duration="2418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="615641000" />
+    <option name="totallyTimeSpent" value="618379000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -261,20 +725,20 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.20295984" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.31678253" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51021844" side_tool="true" weight="0.32636815" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3260606" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.326713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48978153" visible="true" weight="0.35272726" />
-      <window_info id="Favorites" order="2" sideWeight="0.50060606" side_tool="true" weight="0.20295984" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.50060606" side_tool="true" weight="0.20295984" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -326,14 +790,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Quizes/Quiz2/review-quiz-2/search/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
@@ -571,13 +1028,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/action.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="260" column="23" selection-start-line="260" selection-start-column="23" selection-end-line="260" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/action.js" />
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 1/Greeter/Greeter.ts" />
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/TypeScript/TypeScript Day 2/houseArray.ts" />
@@ -594,14 +1044,34 @@
     <entry file="file://$PROJECT_DIR$/spring2018/In-Class-Projects/Quizes/Quiz2/review-quiz-2/search/search.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="6" />
+          <caret line="3" column="6" selection-start-line="1" selection-start-column="4" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/angular/in-class-angular/fads-app/fads/src/app/products/products.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        <state relative-caret-position="412">
+          <caret line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/action.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="111" selection-start-line="52" selection-start-column="111" selection-end-line="52" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring2018/GolfScoreCard/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#1946#1953#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

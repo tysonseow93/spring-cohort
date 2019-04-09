@@ -1,0 +1,28 @@
+<html>
+
+
+<head>My CloudFront Test</head>
+
+
+<body>
+
+
+<p>My text content goes here.</p>
+
+
+<p><img src="http://d1f1b71wvae3uq.cloudfront.net/cloudfront-test-image.cf9b5567547707b2e8f4c3931ca778db3a2d011f.png" alt="my test image">
+
+
+</body>
+
+
+</html>
+
+
+
+aws lambda invoke \
+--invocation-type RequestResponse \
+--function-name hello-world-python \
+--region us-west-2 \
+--payload '{"key1":"value1", "key2":"value2", "key3":"value3"}' \
+outputfile.json

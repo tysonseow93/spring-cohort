@@ -1,0 +1,7 @@
+<h2>Math Utils</h2>
+<div >
+  <h3>Add</h3>
+  <input type="number" name="firstValue" [(ngModel)]="addFirstValue" (input)="add(addFirstValue, addSecondValue)">
+  <input type="number" name="secondValue" [(ngModel)]="addSecondValue" (input)="add(addFirstValue, addSecondValue)">
+  <p>{{addedValue}}</p>
+</div>

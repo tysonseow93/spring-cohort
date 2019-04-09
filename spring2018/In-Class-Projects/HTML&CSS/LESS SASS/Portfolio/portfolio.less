@@ -2,16 +2,17 @@
 @default-padding: 20px;
 @title-font-size: 30px;
 @base-font-size: 12px;
-@default-text-shadow: black 1px 2px;
+@default-text-shadow: #484966;
 @btn-color: #ab182d;
 @btn-hover: #db193c;
+@background-gradient: linear-gradient(45deg, #d2d2d2, #baa48c);
 
 
 .dabtn(@btn-radius){
   text-decoration: none;
   color: #ffffff;
   display: block;
-  width: 100px;
+  width: 50px;
   margin-top: 20px;
   padding: 8px;
   text-align: center;
@@ -32,7 +33,7 @@ html, body{
 body{
   display: flex;
   align-items: center;
-  background-color: #ece5de;
+  background-image: @background-gradient;
   .container{
     width: 70%;
     height: 600px;
@@ -46,12 +47,12 @@ body{
       align-items: center;
       width: 45%;
       height: 100%;
-      background-image: url("Portfolio/famousportraits8.jpg");
+      background-image: url("./famousportraits8.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       background-position: 25%;
       .profile-title{
-        color: white;
+        color: #fcffde;
         text-shadow: @default-text-shadow;
         text-align: center;
         margin-bottom: 40px;

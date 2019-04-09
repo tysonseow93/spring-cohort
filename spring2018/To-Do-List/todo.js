@@ -25,23 +25,20 @@ $(document).ready(function() {
      let $active;
      $(document).on( 'click', '#createBtn', function(){
          let listname = $('#createinput').val();
-         $('.main').append(
-             '<div class="list-box">'
-             +'<div class="header">'
-             + '<input type="checkbox" class="markCompleteList">'
-             + '<div class="fa fa-trash"></div>'
-             + '<div class="headleft" contenteditable="true">'
-             + listname
-             + '</div>'
-             +'<div class="headright">'
-             + '<button type="button" class="addItem btn btn-primary" data-toggle="modal" data-target="#addItemModal" data-whatever="@mdo">Add Items</button>'
-             +'</div>'
-             +'</div>'
-             + '<div class="list">'
-             + '<ul class="todolist">'
-             + '</ul>'
-             + '</div>'
-             +'</div>');
+         $('.main').append(`
+                 <div class="list-box">
+                    <div class="header">
+                        <input type="checkbox" class="markCompleteList">
+                        <div class="fa fa-trash"></div>
+                        <div class="headleft" contenteditable="true">${listname}</div>
+                        <div class="headright">
+                            <button type="button" class="addItem btn btn-primary" data-toggle="modal" data-target="#addItemModal" data-whatever="@mdo">Add Items</button>
+                        </div>
+                    </div>
+                    <div class="list">
+                        <ul class="todolist"></ul>
+                    </div>
+                </div>`);
          $('#createinput').val("");
          $('.main').show(this);
      });
@@ -57,6 +54,9 @@ $(document).ready(function() {
      $(document).on("click", ".fa-trash",function () {
          $(this).parent().parent('.list-box').remove();
      });
+    $(document).on("click", ".fa-trash",function () {
+        $(this).parent().remove();
+    });
      $(document).on('click', '#createItemBtn',function(){
          let listItem = $('#createItemInput').val();
          $active.find('.todolist').append('<div class="todoitem">' + '<input type="checkbox" class="markComplete">' + '<li contenteditable="true">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
@@ -64,9 +64,6 @@ $(document).ready(function() {
      });
      $(document).on("click", ".markComplete", function() {
          $(this).siblings("li").toggleClass("completed");
-     });
-     $(document).on("click", ".fa-trash",function () {
-         $(this).parent().remove();
      });
      $('#addListModal').on('shown.bs.modal', function () {
          $('#createinput').trigger('focus')
@@ -80,23 +77,20 @@ $(document).ready(function() {
          if( e.keyCode === 13 ) {
              e.preventDefault();
              let listname = $('#createinput').val();
-             $('.main').append(
-                 '<div class="list-box">'
-                 +'<div class="header">'
-                 + '<input type="checkbox" class="markCompleteList">'
-                 + '<div class="fa fa-trash"></div>'
-                 + '<div class="headleft" contenteditable="true">'
-                 + listname
-                 + '</div>'
-                 +'<div class="headright">'
-                 + '<button type="button" class="addItem btn btn-primary" data-toggle="modal" data-target="#addItemModal" data-whatever="@mdo">Add Items</button>'
-                 +'</div>'
-                 +'</div>'
-                 + '<div class="list">'
-                 + '<ul class="todolist">'
-                 + '</ul>'
-                 + '</div>'
-                 +'</div>');
+             $('.main').append(`
+                 <div class="list-box">
+                    <div class="header">
+                        <input type="checkbox" class="markCompleteList">
+                        <div class="fa fa-trash"></div>
+                        <div class="headleft" contenteditable="true">${listname}</div>
+                        <div class="headright">
+                            <button type="button" class="addItem btn btn-primary" data-toggle="modal" data-target="#addItemModal" data-whatever="@mdo">Add Items</button>
+                        </div>
+                    </div>
+                    <div class="list">
+                        <ul class="todolist"></ul>
+                    </div>
+                </div>`);
              $('#createinput').val("");
              $('.main').show(this);
          }
@@ -105,7 +99,12 @@ $(document).ready(function() {
          if( e.keyCode === 13 ) {
              e.preventDefault();
              let listItem = $('#createItemInput').val();
-             $active.find('.todolist').append('<div class="todoitem">' + '<input type="checkbox" class="markComplete">' + '<li contenteditable="true">' + listItem + '</li>'+'<div class="fa fa-trash"></div>'+'</div>');
+             $active.find('.todolist').append(`
+                 <div class="todoitem">
+                     <input type="checkbox" class="markComplete">
+                     <li contenteditable="true">${listItem}</li>
+                     <div class="fa fa-trash"></div>
+                 </div>`);
              $('#createItemInput').val("");
          }
      });

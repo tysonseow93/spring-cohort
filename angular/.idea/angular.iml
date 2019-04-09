@@ -5,6 +5,8 @@
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/game-review/vgr/src/pages/platforms" />
       <excludeFolder url="file://$MODULE_DIR$/ionic/elite-schedule-app/www" />
+      <excludeFolder url="file://$MODULE_DIR$/new-golf-app/angular-golf-app/www" />
+      <excludeFolder url="file://$MODULE_DIR$/new-golf-app/test-app/www" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>

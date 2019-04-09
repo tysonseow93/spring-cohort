@@ -1,0 +1,19 @@
+extends ./layouts/layout
+
+block headContent
+    include ./includes/head
+block bodyContent
+    //  for most attributes you will need to use the format below.
+    h1(class='myClass' id="headerId") this is the header
+    //classes and ID can be added with the sort hand shown below.
+    p.myClass.mySecondClass#myId= message
+    p A part of this message are a provided by a variable. Isn't that #{partial}?
+    ul
+        each val in values
+            li User #{val.userName}'s email is #{val.email}
+    ul
+        each fruits in list
+            li
+                a(href='fruits/' + fruits) #{fruits}
+    include ./includes/date
+    include ./includes/foot

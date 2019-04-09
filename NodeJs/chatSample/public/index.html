@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat Client</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font: 13px Helvetica, Arial; }
+        form { background: #000; padding: 3px; position: fixed; bottom: 0; width: 100%; }
+        form input { border: 0; padding: 10px; width: 90%; margin-right: .5%; }
+        form button { width: 9%; background: rgb(130, 224, 255); border: none; padding: 10px; }
+        #messages { list-style-type: none; margin: 0; padding: 0; }
+        #messages li { padding: 5px 10px; }
+        #messages li:nth-child(odd) { background: #eee; }
+    </style>
+    <link rel="stylesheet" href="#.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"
+            integrity="sha384-SlE991lGASHoBfWbelyBPLsUlwY1GwNDJo3jSJO04KZ33K2bwfV9YBauFfnzvynJ"
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<ul id="messages"></ul><!-- this is where we append new messages-->
+<form action="">
+    <input  id="inputMessage" autocomplete="off" /><button>Send</button>
+</form>
+<script src="/socket.io/socket.io.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.1.js"></script>
+<script>
+    $(function (){
+        const socket = io();
+        $('form').submit(()=>{
+            // Sends a chat message
+            socket.emit('new message', $('#inputMessage').val());
+            ('#inputMessage').val('');
+            return false;
+        });
+        // When a 'new message' is emmited from the server
+        socket.on('new message', (data) =>{
+            $('#messages').append($('<li>').text(data.message));
+        });
+    });
+</script>
+</body>
+</html>

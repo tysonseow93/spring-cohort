@@ -1,0 +1,42 @@
+1. Import the SDK
+<script src="https://sdk.amazonaws.com/js/aws-sdk-2.100.0.min.js"></script>
+
+2. Setup your credentials
+AWS.config.update({region:"us-west-2"});
+AWS.config.credentials = new AWS.Credentials({
+  "accessKeyId":"<myaccesskey>",
+  "secretAccessKey":"<mysecretkey>"
+});
+
+3. Setup and call your lambda
+output = callLambda({"value1":"WesleyValue"});
+function callLambda(input)
+{
+  var ret_val;
+  var params = {                                              //formatted params to send to lambda
+    FunctionName: "MyFunctionName",                           //Lambda function name (CHANGE THIS!)
+    InvocationType: "RequestResponse",
+    LogType: "None",
+    Payload: JSON.stringify(input)
+  };
+  var lambda = new AWS.Lambda({region:"us-west-2",apiVersion:'2015-03-31'});//init lambda object
+  var output = lambda.invoke(params, function(err, data) {    //call lambda w/ params
+    if (err)
+    {
+      console.log(err, err.stack);                            //an error occured
+      return err;                                             //return lamda error msg
+    }
+    else
+    {
+      console.log("Lambda success.")                          //log lambda call was successfull
+      return data.Payload;                                     //return lambda data
+      console.log(data.Payload);
+    }
+  });
+}
+
+Collapse 
+Message Input
+
+
+Message #general

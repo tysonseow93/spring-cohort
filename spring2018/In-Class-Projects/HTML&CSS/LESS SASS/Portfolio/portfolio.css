@@ -8,7 +8,7 @@ body {
 body {
   display: flex;
   align-items: center;
-  background-color: #ece5de;
+  background-image: linear-gradient(45deg, #d2d2d2, #baa48c);
 }
 body .container {
   width: 70%;
@@ -23,14 +23,14 @@ body .container .left {
   align-items: center;
   width: 45%;
   height: 100%;
-  background-image: url("Portfolio/famousportraits8.jpg");
+  background-image: url("famousportraits8.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 25%;
 }
 body .container .left .profile-title {
-  color: white;
-  text-shadow: black 1px 2px;
+  color: #fcffde;
+  text-shadow: #484966;
   text-align: center;
   margin-bottom: 40px;
 }
@@ -56,7 +56,7 @@ body .container .right .story a {
   text-decoration: none;
   color: #ffffff;
   display: block;
-  width: 100px;
+  width: 50px;
   margin-top: 20px;
   padding: 8px;
   text-align: center;

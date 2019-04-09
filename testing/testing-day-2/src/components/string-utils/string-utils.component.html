@@ -1,0 +1,17 @@
+<h2>String Utils</h2>
+<div>
+  <h3>Uppercase</h3>
+  <input type="text" name="uppercaseText" (input)="toUppercaseText($event.target.value)">
+  <p>{{uppercaseText}}</p>
+</div>
+<div>
+  <h3>Lowercase</h3>
+  <input type="text" name="lowercaseText" (input)="toLowercaseText($event.target.value)">
+  <p>{{lowercaseText}}</p>
+</div>
+<div>
+  <h3>Concatenate</h3>
+  <input type="text" name="concatenateTextOne" [(ngModel)]="concatenateTextOne" (input)="concatenateTexts(concatenateTextOne, concatenateTextTwo)">
+  <input type="text" name="concatenateTextTwo" [(ngModel)]="concatenateTextTwo" (input)="concatenateTexts(concatenateTextOne, concatenateTextTwo)">
+  <p>{{concatenatedTexts}}</p>
+</div>

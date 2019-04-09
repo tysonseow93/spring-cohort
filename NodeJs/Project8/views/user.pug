@@ -1,0 +1,23 @@
+head
+    title Users Creation Page
+body
+    h1(class='myClass' id="headerId") User Display Page
+    a(href='main') Create a User
+
+    table
+        tr
+            th Name
+            th UserID
+            th E-mail
+            th Age
+
+        each val in users
+            tr
+                    td #{val.name}
+                    td #{val.userID}
+                    td #{val.userEmail}
+                    td #{val.age}
+                    td
+                        a(href='edit/' + val.name) Edit
+                    td
+                        a(href='delete/' + val.name) Delete
